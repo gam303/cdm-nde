@@ -42,7 +42,7 @@ h6,
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	1.	Document Setup - Basic Style
+/*  1.  Document Setup - Basic Style
 /*-----------------------------------------------------------------------------------*/
 
 html, hmtl a {
@@ -84,7 +84,7 @@ a:hover,
 a:active,
 a:focus {
   outline: 0;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   text-decoration: none;
 }
 
@@ -360,7 +360,7 @@ a.upper {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	2.	Typography
+/*  2.  Typography
 /*-----------------------------------------------------------------------------------*/
 
 h1,
@@ -414,7 +414,7 @@ h3.normal{
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	3.	Margins / Padding Value / Shadow / Special Classes
+/*  3.  Margins / Padding Value / Shadow / Special Classes
 /*-----------------------------------------------------------------------------------*/
 
 .responsiveimg img {
@@ -543,7 +543,7 @@ h3.normal{
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	4.	Header Section
+/*  4.  Header Section
 /*-----------------------------------------------------------------------------------*/
 
 header {
@@ -565,7 +565,7 @@ header #logo a {
 header #logo a:hover,
 header #logo a:focus,
 header #logo a:active {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 #logo a img {
@@ -663,7 +663,7 @@ header #logo a:active {
   left: 0;
   width: 100%;
   height: 6px;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   opacity: 0;
   -webkit-transition: top 0.19s ease-in-out 0s, opacity 0.25s ease-in-out 0s;
   -moz-transition: top 0.19s ease-in-out 0s, opacity 0.25s ease-in-out 0s;
@@ -745,13 +745,13 @@ header #logo a:active {
 
 #menu ul .sub-menu li a:hover {
   color: #FFFFFF;
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   border: none;
 }
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	5.	Mobile Navigation
+/*  5.  Mobile Navigation
 /*-----------------------------------------------------------------------------------*/
 
 #mobile-nav,
@@ -841,7 +841,7 @@ header #logo a:active {
 }
 
 #navigation-mobile li a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 #menu-nav-mobile ul.sub-menu {
@@ -885,7 +885,7 @@ header #logo a:active {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	6.	Revolution Slider Setup Graphics
+/*  6.  Revolution Slider Setup Graphics
 /*-----------------------------------------------------------------------------------*/
 
 .main-content .container-fluid .revolution_slider_container {
@@ -1038,7 +1038,7 @@ header #logo a:active {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	7.	Full-width Image
+/*  7.  Full-width Image
 /*-----------------------------------------------------------------------------------*/
 
 .fullimage-container {
@@ -1120,7 +1120,7 @@ header #logo a:active {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	8.	Section Title Page
+/*  8.  Section Title Page
 /*-----------------------------------------------------------------------------------*/
 
 #title-page {
@@ -1204,7 +1204,7 @@ header #logo a:active {
 
 #title-page.banner-image .entry-meta.entry-header a:hover,
 .pagize .entry-meta.entry-header a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .pagize .entry-meta .meta-sep {
@@ -1226,7 +1226,7 @@ header #logo a:active {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	9.	Special Heading
+/*  9.  Special Heading
 /*-----------------------------------------------------------------------------------*/
 
 .special-heading > * {
@@ -1245,7 +1245,7 @@ header #logo a:active {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	10.	Team and Single Post Team
+/*  10. Team and Single Post Team
 /*-----------------------------------------------------------------------------------*/
 
 #team-filter .dropdown {
@@ -1288,7 +1288,7 @@ header #logo a:active {
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -1367,12 +1367,12 @@ header #logo a:active {
 
 .single-people:hover .team-name,
 .single-people .team-name:hover {
-  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-bottom-color: #F88A79;
 }
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	11.	Portfolio / Single Post Portfolio  / Latest Works
+/*  11. Portfolio / Single Post Portfolio  / Latest Works
 /*-----------------------------------------------------------------------------------*/
 
 #portfolio-filter .dropdown {
@@ -1423,7 +1423,7 @@ header #logo a:active {
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -1502,11 +1502,11 @@ header #logo a:active {
 
 .item-project:hover .project-name,
 .item-project .project-name:hover {
-  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-bottom-color: #F88A79;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	12.	Navigation Projects / Navigation Posts
+/*  12. Navigation Projects / Navigation Posts
 /*-----------------------------------------------------------------------------------*/
 
 .navigation-projects {
@@ -1598,7 +1598,7 @@ header #logo a:active {
   padding: 0;
   width: 40px;
   height: 40px;
-  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border: 2px solid #F88A79;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -1616,7 +1616,7 @@ header #logo a:active {
   top: 50%;
   left: 50%;
   margin: -10px 0 0 -10px;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   text-indent: 0;
   font-size: 20px;
   -webkit-transition: color 0.1s linear;
@@ -1627,7 +1627,7 @@ header #logo a:active {
 
 .navigation-blog ul li.prev a:hover,
 .navigation-blog ul li.next a:hover {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
 }
 
 .navigation-blog ul li.prev a:hover i,
@@ -1636,7 +1636,7 @@ header #logo a:active {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	13.	Map Area and Contact
+/*  13. Map Area and Contact
 /*-----------------------------------------------------------------------------------*/
 
 #map-area {
@@ -1751,9 +1751,9 @@ span.wpcf7-form-control-wrap {
   display: inline-block;
   padding: 16px 20px;
   width: auto;
-  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border: 2px solid #F88A79;
   background: transparent;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -1771,7 +1771,7 @@ span.wpcf7-form-control-wrap {
 .wpcf7 .wpcf7-submit:hover,
 .wpcf7 .wpcf7-submit:focus,
 .wpcf7 .wpcf7-submit:active {
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   color: #FFFFFF;
 }
 
@@ -1979,7 +1979,7 @@ span.wpcf7-form-control-wrap {
 v.dropdown-menu > li > a:focus,
 .dropdown-submenu:hover > a,
 .dropdown-submenu:focus > a {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%) !important;
+  background-color: #F88A79 !important;
   background-image: none !important;
   color: #FFFFFF;
   text-decoration: none;
@@ -1987,7 +1987,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	14.	Latest Post / Blog
+/*  14. Latest Post / Blog
 /*-----------------------------------------------------------------------------------*/
 
 #latest-posts {
@@ -2024,8 +2024,7 @@ v.dropdown-menu > li > a:focus,
 
 #blog article:hover,
 #latest-posts article:hover {
-  background: rgb(224,79,57);
-  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);;
+  border-bottom-color: #F88A79;
 }
 
 #blog .post-thumb img,
@@ -2079,7 +2078,7 @@ v.dropdown-menu > li > a:focus,
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -2153,7 +2152,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .standard-blog .entry-meta a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .standard-blog .entry-content {
@@ -2239,7 +2238,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .masonry-blog .entry-meta a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .masonry-blog .entry-content {
@@ -2358,7 +2357,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	15.	Comments
+/*  15. Comments
 /*-----------------------------------------------------------------------------------*/
 
 .comment-area {
@@ -2428,7 +2427,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .comment-author cite a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .comment-meta,
@@ -2441,7 +2440,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .comment-meta a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .comment-meta {
@@ -2468,7 +2467,7 @@ v.dropdown-menu > li > a:focus,
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   border-radius: 50px;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   color: #FFFFFF;
   text-transform: uppercase;
   text-shadow: none;
@@ -2557,9 +2556,9 @@ v.dropdown-menu > li > a:focus,
   display: inline-block;
   padding: 16px 20px;
   width: auto;
-  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border: 2px solid #F88A79;
   background: transparent;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -2575,13 +2574,13 @@ v.dropdown-menu > li > a:focus,
 }
 
 #commentform #submit:hover {
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   color: #FFFFFF;
 }
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	16.	Sidebar
+/*  16. Sidebar
 /*-----------------------------------------------------------------------------------*/
 
 #sidebar,
@@ -2611,7 +2610,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	17.	Big Twitter Feed Area
+/*  17. Big Twitter Feed Area
 /*-----------------------------------------------------------------------------------*/
 
 #twitter-feed .tweet_list {
@@ -2635,7 +2634,7 @@ v.dropdown-menu > li > a:focus,
 
 #twitter-feed .tweet_list li .tweet_text a,
 #twitter-feed .tweet_list li .tweet_time a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   font-weight: 400;
 }
 
@@ -2654,7 +2653,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	18.	Footer
+/*  18. Footer
 /*-----------------------------------------------------------------------------------*/
 
 footer {
@@ -2703,7 +2702,7 @@ footer {
 }
 
 #social-footer ul li:hover a i {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 /* Footer Credits */
@@ -2733,11 +2732,11 @@ footer {
 }
 
 #footer-credits p a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	19.	Back to Top
+/*  19. Back to Top
 /*-----------------------------------------------------------------------------------*/
 
 #back-to-top {
@@ -2760,7 +2759,7 @@ footer {
 }
 
 #back-to-top:hover {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
 }
 
 #back-to-top i {
@@ -2774,7 +2773,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	20.	Error Page
+/*  20. Error Page
 /*-----------------------------------------------------------------------------------*/
 
 .error-404 h2 {
@@ -2782,7 +2781,7 @@ footer {
 }
 
 .error-ban{
-	min-height: 605px;
+  min-height: 605px;
 }
 
 .error-ban h2 {
@@ -2795,7 +2794,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	21.	Archives / Sitemap Template
+/*  21. Archives / Sitemap Template
 /*-----------------------------------------------------------------------------------*/
 
 .widget_archives ul {
@@ -2837,7 +2836,7 @@ footer {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	22.	Widgets
+/*  22. Widgets
 /*-----------------------------------------------------------------------------------*/
 
 .widget {
@@ -2980,9 +2979,9 @@ footer {
   margin: 0 3px 4px 0;
   padding: 8px 12px;
   width: auto;
-  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border: 2px solid #F88A79;
   background: transparent;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -2999,7 +2998,7 @@ footer {
 .tagcloud a:hover,
 .tagcloud a:active,
 .tagcloud a:focus {
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   color: #FFFFFF;
 }
 
@@ -3062,7 +3061,7 @@ footer {
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.15s ease-in-out 0s;
@@ -3130,7 +3129,7 @@ footer {
   margin: 0 3px 3px 0;
   width: 38px;
   height: 38px;
-  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border: 2px solid #F88A79;
   background-color: transparent;
   -webkit-transition: background 0.15s ease-in-out 0s;
   -moz-transition: background 0.15s ease-in-out 0s;
@@ -3143,7 +3142,7 @@ footer {
   top: 50%;
   left: 50%;
   margin: -8px 0 0 -8px;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   font-size: 16px;
   -webkit-transition: color 0.15s ease-in-out 0s;
   -moz-transition: color 0.15s ease-in-out 0s;
@@ -3152,7 +3151,7 @@ footer {
 }
 
 .social_widget a:hover {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
 }
 
 .social_widget a:hover i {
@@ -3263,11 +3262,11 @@ footer {
 }
 
 .footer-widgets .social_widget a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	23.	Isotope Portfolio Filtering Settings
+/*  23. Isotope Portfolio Filtering Settings
 /*-----------------------------------------------------------------------------------*/
 
 /**** Isotope Filtering ****/
@@ -3332,7 +3331,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	24.	Animation
+/*  24. Animation
 /*-----------------------------------------------------------------------------------*/
 
 .animation-enabled header,
@@ -3558,7 +3557,7 @@ footer {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	25.	Fancybox
+/*  25. Fancybox
 /*-----------------------------------------------------------------------------------*/
 
 .fancybox-wrap,
@@ -3760,7 +3759,7 @@ footer {
 
 .fancybox-nav:hover span {
   opacity: 1;
-  background-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color:#F88A79;
 }
 
 .fancybox-tmp {
@@ -3908,22 +3907,22 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	26.	Shortcodes
+/*  26. Shortcodes
 /*-----------------------------------------------------------------------------------*/
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-1.	Buttons
+/*  0-1.  Buttons
 /*-----------------------------------------------------------------------------------*/
 
 .button-main {
   display: inline-block;
   padding: 12px 20px;
-  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border: 2px solid #F88A79;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
   background: transparent;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -3983,7 +3982,7 @@ footer {
 .button-main:hover,
 .button-main:active,
 .button-main:focus {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   color: #FFFFFF;
 }
 
@@ -4017,7 +4016,7 @@ footer {
 /*--- Inverted ---*/
 
 .button-main.inverted {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   color: #FFFFFF;
 }
 
@@ -4025,7 +4024,7 @@ footer {
 .button-main.inverted:active,
 .button-main.inverted:focus {
   background-color: transparent;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 /*--- With Icon ---*/
@@ -4038,7 +4037,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-2.	Box Icon
+/*  0-2.  Box Icon
 /*-----------------------------------------------------------------------------------*/
 
 .box {
@@ -4121,13 +4120,13 @@ footer {
 .box:hover .icon i,
 .box:active .icon i,
 .box:focus .icon i {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .box:hover .icon:after,
 .box:active .icon:after,
 .box:focus .icon:after {
-  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-color: #F88A79;
 }
 
 .box.listed-left {
@@ -4174,7 +4173,7 @@ footer {
 }
 
 .region-box.small {
-	padding: 8px 0 0 6px;
+  padding: 8px 0 0 6px;
 }
 
 .region-box .icon {
@@ -4195,8 +4194,8 @@ footer {
 }
 
 .region-box.small .icon {
-	width: 40px;
-	height: 40px;	
+  width: 40px;
+  height: 40px; 
 }
 
 .region-box .icon:after {
@@ -4278,7 +4277,7 @@ footer {
 }
 
 .menu-box.small {
-	padding: 8px 0 0 6px;
+  padding: 8px 0 0 6px;
 }
 
 .menu-box .icon {
@@ -4299,8 +4298,8 @@ footer {
 }
 
 .menu-box.small .icon {
-	width: 40px;
-	height: 40px;	
+  width: 40px;
+  height: 40px; 
 }
 
 .menu-box .icon:after {
@@ -4463,7 +4462,7 @@ footer {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-3.	Dropdown
+/*  0-3.  Dropdown
 /*-----------------------------------------------------------------------------------*/
 
 .dropmenu {
@@ -4508,7 +4507,7 @@ footer {
 .dropmenu:hover,
 .dropmenu.open,
 .dropmenu.open {
-  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-color: #F88A79;
 }
 
 .dropmenu.open i {
@@ -4547,7 +4546,7 @@ footer {
 }
 
 .dropmenu-active ul li a:hover {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .dropmenu-active ul li:first-child a {
@@ -4559,7 +4558,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-4.	Accordion and Toggle
+/*  0-4.  Accordion and Toggle
 /*-----------------------------------------------------------------------------------*/
 
 .accordion-group {
@@ -4604,7 +4603,7 @@ footer {
 }
 
 .accordion-heading .accordion-toggle.active {
-  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-color: #F88A79;
 }
 
 .accordion-heading .accordion-toggle.inactive {
@@ -4723,7 +4722,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-5.	Alerts
+/*  0-5.  Alerts
 /*-----------------------------------------------------------------------------------*/
 
 .alert {
@@ -4809,7 +4808,7 @@ footer {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-6.	Tabs
+/*  0-6.  Tabs
 /*-----------------------------------------------------------------------------------*/
 
 .nav {
@@ -4835,7 +4834,7 @@ footer {
 .nav > li > a:hover,
 .nav > li > a:focus {
   display: block;
-  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-color: #F88A79;
   background: #FFFFFF;
   text-decoration: none;
 }
@@ -4889,7 +4888,7 @@ footer {
 .nav-tabs > .active > a,
 .nav-tabs > .active > a:hover,
 .nav-tabs > .active > a:focus {
-  border-top: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-top: 2px solid #F88A79;
   border-right: none;
   border-bottom: none;
   border-left: none;
@@ -4943,7 +4942,7 @@ footer {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-7.	Blockquotes
+/*  0-7.  Blockquotes
 /*-----------------------------------------------------------------------------------*/
 
 blockquote {
@@ -4962,7 +4961,7 @@ blockquote p {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-8.	Tooltip
+/*  0-8.  Tooltip
 /*-----------------------------------------------------------------------------------*/
 
 .tooltip {
@@ -5003,7 +5002,7 @@ blockquote p {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   color: #FFFFFF;
   text-align: center;
   text-decoration: none;
@@ -5022,7 +5021,7 @@ blockquote p {
   left: 50%;
   margin-left: -10px;
   border-width: 10px 10px 0;
-  border-top-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-top-color: #F88A79;
 }
 
 .tooltip.right .tooltip-arrow {
@@ -5030,7 +5029,7 @@ blockquote p {
   left: 0;
   margin-top: -10px;
   border-width: 10px 10px 10px 0;
-  border-right-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-right-color: #F88A79;
 }
 
 .tooltip.left .tooltip-arrow {
@@ -5038,7 +5037,7 @@ blockquote p {
   right: 0;
   margin-top: -10px;
   border-width: 10px 0 10px 10px;
-  border-left-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-left-color: #F88A79;
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -5046,25 +5045,25 @@ blockquote p {
   left: 50%;
   margin-left: -10px;
   border-width: 0 10px 10px;
-  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  border-bottom-color: #F88A79;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-9.	Highlights
+/*  0-9.  Highlights
 /*-----------------------------------------------------------------------------------*/
 
 .color-text {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .highlight-text {
   padding: 0 4px;
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   color: #FFFFFF;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-10.	Dropcap
+/*  0-10. Dropcap
 /*-----------------------------------------------------------------------------------*/
 
 .dropcap {
@@ -5083,7 +5082,7 @@ blockquote p {
   margin: 0 18px 0 0;
   width: 46px;
   height: 46px;
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   color: #FFFFFF;
   text-align: center;
   font-weight: 600;
@@ -5092,7 +5091,7 @@ blockquote p {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-11.	Video Embed Iframe / Audio
+/*  0-11. Video Embed Iframe / Audio
 /*-----------------------------------------------------------------------------------*/
 
 iframe, object, embed {
@@ -5106,7 +5105,7 @@ iframe, object, embed {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-12.	Progress Bar
+/*  0-12. Progress Bar
 /*-----------------------------------------------------------------------------------*/
 
 .progress-bar {
@@ -5147,7 +5146,7 @@ iframe, object, embed {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   background-image: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -5179,7 +5178,7 @@ iframe, object, embed {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-13.	Lightbox Images and Video Fancybox
+/*  0-13. Lightbox Images and Video Fancybox
 /*-----------------------------------------------------------------------------------*/
 
 .lightbox {
@@ -5213,7 +5212,7 @@ iframe, object, embed {
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -5253,7 +5252,7 @@ iframe, object, embed {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-14.	Avatars
+/*  0-14. Avatars
 /*-----------------------------------------------------------------------------------*/
 
 .avatar-table {
@@ -5447,7 +5446,7 @@ iframe, object, embed {
 
 .avatar-wrapper.selected .avatar-title,
 .avatar-wrapper.selected .confirm{
-  background: #184D7A;
+  background: #ffffff;
 }
 
 .avatar-table .price span {
@@ -5525,11 +5524,11 @@ iframe, object, embed {
 
 .avatar-table.selected h5 {
   padding: 27px 0;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
 }
 
 .avatar-table.selected .price {
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
 }
 
 .avatar-table.selected .price span {
@@ -5659,7 +5658,7 @@ iframe, object, embed {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-15.	Pricing Table
+/*  0-15. Pricing Table
 /*-----------------------------------------------------------------------------------*/
 
 .pricing-table {
@@ -5893,7 +5892,7 @@ iframe, object, embed {
   /*padding: 14px 0;*/
   padding: 7px 0;
   width: 100%;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   color: #FFFFFF;
   text-align: center;
   text-transform: uppercase;
@@ -5919,11 +5918,11 @@ iframe, object, embed {
 
 .pricing-table.selected h5 {
   padding: 27px 0;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
 }
 
 .pricing-table.selected .price {
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
 }
 
 .pricing-table.selected .price span {
@@ -5948,7 +5947,7 @@ iframe, object, embed {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-16.	Divider
+/*  0-16. Divider
 /*-----------------------------------------------------------------------------------*/
 
 .divider {
@@ -5995,7 +5994,7 @@ iframe, object, embed {
 
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-17.	Media Elements
+/*  0-17. Media Elements
 /*-----------------------------------------------------------------------------------*/
 
 audio, canvas, video {
@@ -6110,7 +6109,7 @@ audio, canvas, video {
 }
 
 .mejs-overlay:hover .mejs-overlay-button {
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
 }
 
 .mejs-overlay-loading {
@@ -6285,7 +6284,7 @@ audio, canvas, video {
 .mejs-controls .mejs-time-rail .mejs-time-current {
   z-index: 1;
   width: 0;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
 }
 
 .mejs-controls .mejs-time-rail .mejs-time-handle {
@@ -6416,6 +6415,18 @@ audio, canvas, video {
   background: #373A3A;
 }
 
+.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current {
+  position: absolute;
+  top: 6px;
+  left: 13px;
+  margin: 0px;
+  width: 7px;
+  height: 50px;
+  background: rgb(224,79,57);
+background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-position: bottom;
+}
+
 .mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-handle {
   position: absolute;
   top: 16px;
@@ -6455,7 +6466,7 @@ audio, canvas, video {
   padding: 0;
   width: 50px;
   height: 7px;
-  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background: #F88A79;
   font-size: 1px;
 }
 
@@ -6798,7 +6809,7 @@ audio, canvas, video {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-18.	Social Profiles
+/*  0-18. Social Profiles
 /*-----------------------------------------------------------------------------------*/
 
 .social-icons {
@@ -6825,11 +6836,11 @@ audio, canvas, video {
 }
 
 .social-icons li a:hover i {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	0-19.	Icons Example for Demo Content Only
+/*  0-19. Icons Example for Demo Content Only
 /*-----------------------------------------------------------------------------------*/
 
 .icons-example ul {
@@ -6853,7 +6864,7 @@ audio, canvas, video {
   -moz-border-radius: 999px;
   border-radius: 999px;
   background: #FFFFFF;
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 .icons-example ul li a i {
@@ -6870,11 +6881,11 @@ audio, canvas, video {
 
 .icons-example ul li:hover a i,
 .icons-example ul li.active a i {
-  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  color: #F88A79;
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	27.	Animation Modules
+/*  27. Animation Modules
 /*-----------------------------------------------------------------------------------*/
 
 .js .animated-content {
@@ -7026,7 +7037,7 @@ audio, canvas, video {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	28.	Font Icons
+/*  28. Font Icons
 /*-----------------------------------------------------------------------------------*/
 
 @font-face {
@@ -7901,7 +7912,7 @@ you can use the generic selector below, but it's slower:
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*	29.	Media Queries
+/*  29. Media Queries
 /*-----------------------------------------------------------------------------------*/
 
 @media (min-width: 980px) and (max-width: 1199px) {
@@ -8800,7 +8811,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
+  background-color: #F88A79;
   background-image: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -9118,23 +9129,23 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 
 
 .payment-group-button input[type="radio"] {
-	position: absolute;
-	clip: rect(0,0,0,0);
-	pointer-events: none;
+  position: absolute;
+  clip: rect(0,0,0,0);
+  pointer-events: none;
 }
 
 .currency-package-group-button input[type="radio"] {
-	position: absolute;
-	clip: rect(0,0,0,0);
-	pointer-events: none;
+  position: absolute;
+  clip: rect(0,0,0,0);
+  pointer-events: none;
 }
 
 .pricing-table-wrapper{
-	/* display:none; */
+  /* display:none; */
 }
 
 .pricing-table-wrapper .active{
-	display:block;
+  display:block;
 }
 
 .account-info{
@@ -9180,7 +9191,9 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
   -khtml-opacity: 0.1;  
   opacity: 0.1;
 }
-a:hover,a:active,a:focus,header #logo a:hover,#navigation-mobile li a:hover,.navigation-blog ul li.prev a i,.navigation-blog ul li.next a i,.wpcf7 .wpcf7-submit,.standard-blog .entry-meta a:hover,.masonry-blog .entry-meta a:hover,.comment-author cite a:hover,.comment-meta a:hover,#commentform #submit,#twitter-feed .tweet_list li .tweet_text a,#twitter-feed .tweet_list li .tweet_time a:hover,.tagcloud a,.social_widget a i,.footer-widgets .social_widget a:hover,.button-main,.button-main.inverted:hover,.button-main.inverted:active,.button-main.inverted:focus,.box:hover .icon i,.box:active .icon i,.box:focus .icon i,.dropmenu-active ul li a:hover,.color-text,.social-icons li a:hover i,.icons-example ul li a,.icons-example ul li:hover a i,.icons-example ul li.active a i,#footer-credits p a:hover,#social-footer ul li:hover a i,#title-page.banner-image .entry-meta.entry-header a:hover{color:#d49c5f}#menu ul .sub-menu li a:hover,#menu ul li a .bar,#menu ul li a .bar:before,#menu ul li a .bar:after,.single-people .hover-wrap .overlay,.item-project .hover-wrap .overlay,.navigation-blog ul li.prev a:hover,.navigation-blog ul li.next a:hover,.wpcf7 .wpcf7-submit:hover,#blog .post-thumb .hover-wrap .overlay,#latest-posts .post-thumb .hover-wrap .overlay,.badge,#commentform #submit:hover,#back-to-top:hover,.tagcloud a:hover,.tagcloud a:active,.tagcloud a:focus,.widget_quick-flickr-widget ul li a .overlay,.social_widget a:hover,.fancybox-nav:hover span,.button-main:hover,.button-main:active,.button-main:focus,.button-main.inverted,.tooltip-inner,.highlight-text,.dropcap-color,.progress .bar,.lightbox .fancy-wrap .overlay,.pricing-table .confirm,.pricing-table.selected h5,.pricing-table.selected .price,.mejs-overlay:hover .mejs-overlay-button,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.navigation-blog ul li.prev a,.navigation-blog ul li.next a,.wpcf7 .wpcf7-submit,#commentform #submit,.tagcloud a,.social_widget a,.button-main,.dropmenu:hover,.dropmenu:hover,.dropmenu.open,.dropmenu.open,.accordion-heading:hover .accordion-toggle,.accordion-heading:hover .accordion-toggle.inactive,.accordion-heading .accordion-toggle.active,.nav>li>a:hover,.nav>li>a:focus,.nav-tabs>.active>a,.nav-tabs>.active>a:hover,.nav-tabs>.active>a:focus,.box:hover .icon:after,.box:active .icon:after,.box:focus .icon:after{border-color:#56646f}.single-people:hover .team-name,.single-people .team-name:hover,.item-project:hover .project-name,.item-project .project-name:hover,#blog article:hover,#latest-posts article:hover{border-bottom-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.top .tooltip-arrow{border-top-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.right .tooltip-arrow{border-right-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.left .tooltip-arrow{border-left-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.bottom .tooltip-arrow{border-bottom-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}#circle:after{box-shadow:0 0 0 4px linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}
+a:hover,a:active,a:focus,header #logo a:hover,#navigation-mobile li a:hover,.navigation-blog ul li.prev a i,.navigation-blog ul li.next a i,.wpcf7 .wpcf7-submit,.standard-blog .entry-meta a:hover,.masonry-blog .entry-meta a:hover,.comment-author cite a:hover,.comment-meta a:hover,#commentform #submit,#twitter-feed .tweet_list li .tweet_text a,#twitter-feed .tweet_list li .tweet_time a:hover,.tagcloud a,.social_widget a i,.footer-widgets .social_widget a:hover,.button-main,.button-main.inverted:hover,.button-main.inverted:active,.button-main.inverted:focus,.box:hover .icon i,.box:active .icon i,.box:focus .icon i,.dropmenu-active ul li a:hover,.color-text,.social-icons li a:hover i,.icons-example ul li a,.icons-example ul li:hover a i,.icons-example ul li.active a i,#footer-credits p a:hover,#social-footer ul li:hover a i,#title-page.banner-image .entry-meta.entry-header a:hover{color:#d49c5f}#menu ul .sub-menu li a:hover,#menu ul li a .bar,#menu ul li a .bar:before,#menu ul li a .bar:after,.single-people .hover-wrap .overlay,.item-project .hover-wrap .overlay,.navigation-blog ul li.prev a:hover,.navigation-blog ul li.next a:hover,.wpcf7 .wpcf7-submit:hover,#blog .post-thumb .hover-wrap .overlay,#latest-posts .post-thumb .hover-wrap .overlay,.badge,#commentform #submit:hover,#back-to-top:hover,.tagcloud a:hover,.tagcloud a:active,.tagcloud a:focus,.widget_quick-flickr-widget ul li a .overlay,.social_widget a:hover,.fancybox-nav:hover span,.button-main:hover,.button-main:active,.button-main:focus,.button-main.inverted,.tooltip-inner,.highlight-text,.dropcap-color,.progress .bar,.lightbox .fancy-wrap .overlay,.pricing-table .confirm,.pricing-table.selected h5,.pricing-table.selected .price,.mejs-overlay:hover .mejs-overlay-button,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.mejs-controls .mejs-volume-button 
+.mejs-volume-slider .dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.dropdown-submenu:focus>a{background: rgb(224,79,57);
+background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);!important}.navigation-blog ul li.prev a,.navigation-blog ul li.next a,.wpcf7 .wpcf7-submit,#commentform #submit,.tagcloud a,.social_widget a,.button-main,.dropmenu:hover,.dropmenu:hover,.dropmenu.open,.dropmenu.open,.accordion-heading:hover .accordion-toggle,.accordion-heading:hover .accordion-toggle.inactive,.accordion-heading .accordion-toggle.active,.nav>li>a:hover,.nav>li>a:focus,.nav-tabs>.active>a,.nav-tabs>.active>a:hover,.nav-tabs>.active>a:focus,.box:hover .icon:after,.box:active .icon:after,.box:focus .icon:after{border-color:#56646f}.single-people:hover .team-name,.single-people .team-name:hover,.item-project:hover .project-name,.item-project .project-name:hover,#blog article:hover,#latest-posts article:hover{border-bottom-color:#f88a79}.tooltip.top .tooltip-arrow{border-top-color:#f88a79}.tooltip.right .tooltip-arrow{border-right-color:#f88a79}.tooltip.left .tooltip-arrow{border-left-color:#f88a79}.tooltip.bottom .tooltip-arrow{border-bottom-color:#f88a79}#circle:after{box-shadow:0 0 0 4px #f88a79}
     .alert-box {
         width: 320px;
         height: 107px;
@@ -9203,4 +9216,126 @@ a:hover,a:active,a:focus,header #logo a:hover,#navigation-mobile li a:hover,.nav
     }
     .center {
 margin: 0 auto;
+}
+    .alert-box {
+        width: 320px;
+        height: 107px;
+        position: absolute;
+        -webkit-box-shadow: 3px 3px 11px 0px rgba(84, 86, 91, 0.47);
+        -moz-box-shadow: 3px 3px 11px 0px rgba(84, 86, 91, 0.47);
+        box-shadow: 3px 3px 11px 0px rgba(84, 86, 91, 0.47);
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        top: 210px;
+        margin-top: -107px;
+    }
+
+    .alert {
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+    }
+    .import {
+    url(https://fonts.google.com/specimen/Almarai?subset=arabic&selection.family=Almarai:wght@700|Katibeh&sidebar.open)
+    }
+    .fa {
+  padding: 9px;
+  font-size: 17px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  opacity:0.65;
+  border-bottom: 0px solid #FFFFFF;
+  min-height: 22px;
+  margin: -12px 0 0 -12px;
+  width: 90px;
+  height: 20px;
+  -webkit-border-radius: 999px;
+  -moz-border-radius: 999px;
+  border-radius: 999px;
+  background: transparent;
+  opacity: 0.65;
+  -webkit-transition:all .30s ease-out;
+  transition:all .30s ease-out;
+
+} 
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+  -webkit-transition:all .30s ease-out;
+  transition:all .30s ease-out;
+  opacity:1.0;
+    color: #00cc7a;
+
+    
+  }
+.fa-facebook {
+  color: #d9d9d9;
+  transition: all 0.30s ease-in-out 0s;
+
+}
+.pricing-table-selected:hover .confirme{
+  background: linear-gradient(to top, #33cc33 1%, #66ff33 100%);
+  -webkit-transition:all .30s ease-out;
+  transition:all .30s ease-out;
+}
+.pricing-table-selected:hover .confirm{
+  background: linear-gradient(to top, #33cc33 1%, #66ff33 100%);
+  border-bottom: 4px solid #257922;
+}
+
+.cnmutipe{display: inline;position: relative;}
+.cnmutipe:hover:after {
+  background:rgba(0, 0, 0, 0.6);
+  visibility: hidden;
+  width: 95px;
+  content: attr(tooltipe);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;   position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  position: absolute;
+  z-index: 1;
+  top: 150%;
+  left: 50%;
+  margin-left: -26px;
+  visibility: visible;
+}
+
+.cnmutip{display: inline;position: relative;}
+.cnmutip:hover:after {
+  background:rgba(0, 0, 0, 0.6);
+  visibility: hidden;
+  width: 9.0em;
+  content: attr(tooltip);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;   position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+  position: absolute;
+  z-index: 1;
+  top: 150%;
+  left: 50%;
+  margin-left: -26px;
+  visibility: visible;
+}
+
+.centere {
+    position: absolute;
+    left: 50%;
+    bottom: 10xp;
+    width: 100px;
+    height: 200px;
+    transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+
 }
