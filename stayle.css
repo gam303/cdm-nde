@@ -6415,17 +6415,6 @@ audio, canvas, video {
   background: #373A3A;
 }
 
-.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current {
-  position: absolute;
-  top: 6px;
-  left: 13px;
-  margin: 0px;
-  width: 7px;
-  height: 50px;
-  background: #F88A79;
-  background-position: bottom;
-}
-
 .mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-handle {
   position: absolute;
   top: 16px;
