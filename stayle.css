@@ -84,7 +84,7 @@ a:hover,
 a:active,
 a:focus {
   outline: 0;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   text-decoration: none;
 }
 
@@ -565,7 +565,7 @@ header #logo a {
 header #logo a:hover,
 header #logo a:focus,
 header #logo a:active {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 #logo a img {
@@ -663,7 +663,7 @@ header #logo a:active {
   left: 0;
   width: 100%;
   height: 6px;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   opacity: 0;
   -webkit-transition: top 0.19s ease-in-out 0s, opacity 0.25s ease-in-out 0s;
   -moz-transition: top 0.19s ease-in-out 0s, opacity 0.25s ease-in-out 0s;
@@ -745,7 +745,7 @@ header #logo a:active {
 
 #menu ul .sub-menu li a:hover {
   color: #FFFFFF;
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   border: none;
 }
 
@@ -841,7 +841,7 @@ header #logo a:active {
 }
 
 #navigation-mobile li a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 #menu-nav-mobile ul.sub-menu {
@@ -1204,7 +1204,7 @@ header #logo a:active {
 
 #title-page.banner-image .entry-meta.entry-header a:hover,
 .pagize .entry-meta.entry-header a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .pagize .entry-meta .meta-sep {
@@ -1288,7 +1288,7 @@ header #logo a:active {
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -1367,7 +1367,7 @@ header #logo a:active {
 
 .single-people:hover .team-name,
 .single-people .team-name:hover {
-  border-bottom-color: #F88A79;
+  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 
@@ -1423,7 +1423,7 @@ header #logo a:active {
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -1502,7 +1502,7 @@ header #logo a:active {
 
 .item-project:hover .project-name,
 .item-project .project-name:hover {
-  border-bottom-color: #F88A79;
+  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -1598,7 +1598,7 @@ header #logo a:active {
   padding: 0;
   width: 40px;
   height: 40px;
-  border: 2px solid #F88A79;
+  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -1616,7 +1616,7 @@ header #logo a:active {
   top: 50%;
   left: 50%;
   margin: -10px 0 0 -10px;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   text-indent: 0;
   font-size: 20px;
   -webkit-transition: color 0.1s linear;
@@ -1627,7 +1627,7 @@ header #logo a:active {
 
 .navigation-blog ul li.prev a:hover,
 .navigation-blog ul li.next a:hover {
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .navigation-blog ul li.prev a:hover i,
@@ -1751,9 +1751,9 @@ span.wpcf7-form-control-wrap {
   display: inline-block;
   padding: 16px 20px;
   width: auto;
-  border: 2px solid #F88A79;
+  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background: transparent;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -1771,7 +1771,7 @@ span.wpcf7-form-control-wrap {
 .wpcf7 .wpcf7-submit:hover,
 .wpcf7 .wpcf7-submit:focus,
 .wpcf7 .wpcf7-submit:active {
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
 }
 
@@ -1979,7 +1979,7 @@ span.wpcf7-form-control-wrap {
 v.dropdown-menu > li > a:focus,
 .dropdown-submenu:hover > a,
 .dropdown-submenu:focus > a {
-  background-color: #F88A79 !important;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%) !important;
   background-image: none !important;
   color: #FFFFFF;
   text-decoration: none;
@@ -2024,7 +2024,8 @@ v.dropdown-menu > li > a:focus,
 
 #blog article:hover,
 #latest-posts article:hover {
-  border-bottom-color: #FFFFFF;
+  background: rgb(224,79,57);
+  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);;
 }
 
 #blog .post-thumb img,
@@ -2078,7 +2079,7 @@ v.dropdown-menu > li > a:focus,
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -2152,7 +2153,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .standard-blog .entry-meta a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .standard-blog .entry-content {
@@ -2238,7 +2239,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .masonry-blog .entry-meta a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .masonry-blog .entry-content {
@@ -2427,7 +2428,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .comment-author cite a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .comment-meta,
@@ -2440,7 +2441,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 .comment-meta a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .comment-meta {
@@ -2467,7 +2468,7 @@ v.dropdown-menu > li > a:focus,
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
   border-radius: 50px;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
   text-transform: uppercase;
   text-shadow: none;
@@ -2556,9 +2557,9 @@ v.dropdown-menu > li > a:focus,
   display: inline-block;
   padding: 16px 20px;
   width: auto;
-  border: 2px solid #F88A79;
+  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background: transparent;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -2574,7 +2575,7 @@ v.dropdown-menu > li > a:focus,
 }
 
 #commentform #submit:hover {
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
 }
 
@@ -2634,7 +2635,7 @@ v.dropdown-menu > li > a:focus,
 
 #twitter-feed .tweet_list li .tweet_text a,
 #twitter-feed .tweet_list li .tweet_time a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   font-weight: 400;
 }
 
@@ -2702,7 +2703,7 @@ footer {
 }
 
 #social-footer ul li:hover a i {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /* Footer Credits */
@@ -2732,7 +2733,7 @@ footer {
 }
 
 #footer-credits p a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -2759,7 +2760,7 @@ footer {
 }
 
 #back-to-top:hover {
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 #back-to-top i {
@@ -2979,9 +2980,9 @@ footer {
   margin: 0 3px 4px 0;
   padding: 8px 12px;
   width: auto;
-  border: 2px solid #F88A79;
+  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background: transparent;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -2998,7 +2999,7 @@ footer {
 .tagcloud a:hover,
 .tagcloud a:active,
 .tagcloud a:focus {
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
 }
 
@@ -3061,7 +3062,7 @@ footer {
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.15s ease-in-out 0s;
@@ -3129,7 +3130,7 @@ footer {
   margin: 0 3px 3px 0;
   width: 38px;
   height: 38px;
-  border: 2px solid #F88A79;
+  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background-color: transparent;
   -webkit-transition: background 0.15s ease-in-out 0s;
   -moz-transition: background 0.15s ease-in-out 0s;
@@ -3142,7 +3143,7 @@ footer {
   top: 50%;
   left: 50%;
   margin: -8px 0 0 -8px;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   font-size: 16px;
   -webkit-transition: color 0.15s ease-in-out 0s;
   -moz-transition: color 0.15s ease-in-out 0s;
@@ -3151,7 +3152,7 @@ footer {
 }
 
 .social_widget a:hover {
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .social_widget a:hover i {
@@ -3262,7 +3263,7 @@ footer {
 }
 
 .footer-widgets .social_widget a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -3759,7 +3760,7 @@ footer {
 
 .fancybox-nav:hover span {
   opacity: 1;
-  background-color:#F88A79;
+  background-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .fancybox-tmp {
@@ -3917,12 +3918,12 @@ footer {
 .button-main {
   display: inline-block;
   padding: 12px 20px;
-  border: 2px solid #F88A79;
+  border: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
   background: transparent;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
@@ -3982,7 +3983,7 @@ footer {
 .button-main:hover,
 .button-main:active,
 .button-main:focus {
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
 }
 
@@ -4016,7 +4017,7 @@ footer {
 /*--- Inverted ---*/
 
 .button-main.inverted {
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
 }
 
@@ -4024,7 +4025,7 @@ footer {
 .button-main.inverted:active,
 .button-main.inverted:focus {
   background-color: transparent;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*--- With Icon ---*/
@@ -4120,13 +4121,13 @@ footer {
 .box:hover .icon i,
 .box:active .icon i,
 .box:focus .icon i {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .box:hover .icon:after,
 .box:active .icon:after,
 .box:focus .icon:after {
-  border-color: #F88A79;
+  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .box.listed-left {
@@ -4507,7 +4508,7 @@ footer {
 .dropmenu:hover,
 .dropmenu.open,
 .dropmenu.open {
-  border-color: #F88A79;
+  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .dropmenu.open i {
@@ -4546,7 +4547,7 @@ footer {
 }
 
 .dropmenu-active ul li a:hover {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .dropmenu-active ul li:first-child a {
@@ -4603,7 +4604,7 @@ footer {
 }
 
 .accordion-heading .accordion-toggle.active {
-  border-color: #F88A79;
+  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .accordion-heading .accordion-toggle.inactive {
@@ -4834,7 +4835,7 @@ footer {
 .nav > li > a:hover,
 .nav > li > a:focus {
   display: block;
-  border-color: #F88A79;
+  border-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background: #FFFFFF;
   text-decoration: none;
 }
@@ -4888,7 +4889,7 @@ footer {
 .nav-tabs > .active > a,
 .nav-tabs > .active > a:hover,
 .nav-tabs > .active > a:focus {
-  border-top: 2px solid #F88A79;
+  border-top: 2px solid linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   border-right: none;
   border-bottom: none;
   border-left: none;
@@ -5002,7 +5003,7 @@ blockquote p {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
   text-align: center;
   text-decoration: none;
@@ -5021,7 +5022,7 @@ blockquote p {
   left: 50%;
   margin-left: -10px;
   border-width: 10px 10px 0;
-  border-top-color: #F88A79;
+  border-top-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .tooltip.right .tooltip-arrow {
@@ -5029,7 +5030,7 @@ blockquote p {
   left: 0;
   margin-top: -10px;
   border-width: 10px 10px 10px 0;
-  border-right-color: #F88A79;
+  border-right-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .tooltip.left .tooltip-arrow {
@@ -5037,7 +5038,7 @@ blockquote p {
   right: 0;
   margin-top: -10px;
   border-width: 10px 0 10px 10px;
-  border-left-color: #F88A79;
+  border-left-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -5045,7 +5046,7 @@ blockquote p {
   left: 50%;
   margin-left: -10px;
   border-width: 0 10px 10px;
-  border-bottom-color: #F88A79;
+  border-bottom-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -5053,12 +5054,12 @@ blockquote p {
 /*-----------------------------------------------------------------------------------*/
 
 .color-text {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .highlight-text {
   padding: 0 4px;
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
 }
 
@@ -5082,7 +5083,7 @@ blockquote p {
   margin: 0 18px 0 0;
   width: 46px;
   height: 46px;
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
   text-align: center;
   font-weight: 600;
@@ -5146,7 +5147,7 @@ iframe, object, embed {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background-image: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -5212,7 +5213,7 @@ iframe, object, embed {
   bottom: 0px;
   display: block;
   border: 0 solid rgba(255, 255, 255, 0.25);
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: all 0.15s ease-in-out 0s;
@@ -5524,11 +5525,11 @@ iframe, object, embed {
 
 .avatar-table.selected h5 {
   padding: 27px 0;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .avatar-table.selected .price {
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .avatar-table.selected .price span {
@@ -5892,7 +5893,7 @@ iframe, object, embed {
   /*padding: 14px 0;*/
   padding: 7px 0;
   width: 100%;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   color: #FFFFFF;
   text-align: center;
   text-transform: uppercase;
@@ -5918,11 +5919,11 @@ iframe, object, embed {
 
 .pricing-table.selected h5 {
   padding: 27px 0;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .pricing-table.selected .price {
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .pricing-table.selected .price span {
@@ -6109,7 +6110,7 @@ audio, canvas, video {
 }
 
 .mejs-overlay:hover .mejs-overlay-button {
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .mejs-overlay-loading {
@@ -6284,7 +6285,7 @@ audio, canvas, video {
 .mejs-controls .mejs-time-rail .mejs-time-current {
   z-index: 1;
   width: 0;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .mejs-controls .mejs-time-rail .mejs-time-handle {
@@ -6454,7 +6455,7 @@ audio, canvas, video {
   padding: 0;
   width: 50px;
   height: 7px;
-  background: #F88A79;
+  background: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   font-size: 1px;
 }
 
@@ -6824,7 +6825,7 @@ audio, canvas, video {
 }
 
 .social-icons li a:hover i {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -6852,7 +6853,7 @@ audio, canvas, video {
   -moz-border-radius: 999px;
   border-radius: 999px;
   background: #FFFFFF;
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 .icons-example ul li a i {
@@ -6869,7 +6870,7 @@ audio, canvas, video {
 
 .icons-example ul li:hover a i,
 .icons-example ul li.active a i {
-  color: #F88A79;
+  color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -8799,7 +8800,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  background-color: #F88A79;
+  background-color: linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%);
   background-image: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -9179,7 +9180,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
   -khtml-opacity: 0.1;  
   opacity: 0.1;
 }
-a:hover,a:active,a:focus,header #logo a:hover,#navigation-mobile li a:hover,.navigation-blog ul li.prev a i,.navigation-blog ul li.next a i,.wpcf7 .wpcf7-submit,.standard-blog .entry-meta a:hover,.masonry-blog .entry-meta a:hover,.comment-author cite a:hover,.comment-meta a:hover,#commentform #submit,#twitter-feed .tweet_list li .tweet_text a,#twitter-feed .tweet_list li .tweet_time a:hover,.tagcloud a,.social_widget a i,.footer-widgets .social_widget a:hover,.button-main,.button-main.inverted:hover,.button-main.inverted:active,.button-main.inverted:focus,.box:hover .icon i,.box:active .icon i,.box:focus .icon i,.dropmenu-active ul li a:hover,.color-text,.social-icons li a:hover i,.icons-example ul li a,.icons-example ul li:hover a i,.icons-example ul li.active a i,#footer-credits p a:hover,#social-footer ul li:hover a i,#title-page.banner-image .entry-meta.entry-header a:hover{color:#d49c5f}#menu ul .sub-menu li a:hover,#menu ul li a .bar,#menu ul li a .bar:before,#menu ul li a .bar:after,.single-people .hover-wrap .overlay,.item-project .hover-wrap .overlay,.navigation-blog ul li.prev a:hover,.navigation-blog ul li.next a:hover,.wpcf7 .wpcf7-submit:hover,#blog .post-thumb .hover-wrap .overlay,#latest-posts .post-thumb .hover-wrap .overlay,.badge,#commentform #submit:hover,#back-to-top:hover,.tagcloud a:hover,.tagcloud a:active,.tagcloud a:focus,.widget_quick-flickr-widget ul li a .overlay,.social_widget a:hover,.fancybox-nav:hover span,.button-main:hover,.button-main:active,.button-main:focus,.button-main.inverted,.tooltip-inner,.highlight-text,.dropcap-color,.progress .bar,.lightbox .fancy-wrap .overlay,.pricing-table .confirm,.pricing-table.selected h5,.pricing-table.selected .price,.mejs-overlay:hover .mejs-overlay-button,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.navigation-blog ul li.prev a,.navigation-blog ul li.next a,.wpcf7 .wpcf7-submit,#commentform #submit,.tagcloud a,.social_widget a,.button-main,.dropmenu:hover,.dropmenu:hover,.dropmenu.open,.dropmenu.open,.accordion-heading:hover .accordion-toggle,.accordion-heading:hover .accordion-toggle.inactive,.accordion-heading .accordion-toggle.active,.nav>li>a:hover,.nav>li>a:focus,.nav-tabs>.active>a,.nav-tabs>.active>a:hover,.nav-tabs>.active>a:focus,.box:hover .icon:after,.box:active .icon:after,.box:focus .icon:after{border-color:#56646f}.single-people:hover .team-name,.single-people .team-name:hover,.item-project:hover .project-name,.item-project .project-name:hover,#blog article:hover,#latest-posts article:hover{border-bottom-color:#f88a79}.tooltip.top .tooltip-arrow{border-top-color:#f88a79}.tooltip.right .tooltip-arrow{border-right-color:#f88a79}.tooltip.left .tooltip-arrow{border-left-color:#f88a79}.tooltip.bottom .tooltip-arrow{border-bottom-color:#f88a79}#circle:after{box-shadow:0 0 0 4px #f88a79}
+a:hover,a:active,a:focus,header #logo a:hover,#navigation-mobile li a:hover,.navigation-blog ul li.prev a i,.navigation-blog ul li.next a i,.wpcf7 .wpcf7-submit,.standard-blog .entry-meta a:hover,.masonry-blog .entry-meta a:hover,.comment-author cite a:hover,.comment-meta a:hover,#commentform #submit,#twitter-feed .tweet_list li .tweet_text a,#twitter-feed .tweet_list li .tweet_time a:hover,.tagcloud a,.social_widget a i,.footer-widgets .social_widget a:hover,.button-main,.button-main.inverted:hover,.button-main.inverted:active,.button-main.inverted:focus,.box:hover .icon i,.box:active .icon i,.box:focus .icon i,.dropmenu-active ul li a:hover,.color-text,.social-icons li a:hover i,.icons-example ul li a,.icons-example ul li:hover a i,.icons-example ul li.active a i,#footer-credits p a:hover,#social-footer ul li:hover a i,#title-page.banner-image .entry-meta.entry-header a:hover{color:#d49c5f}#menu ul .sub-menu li a:hover,#menu ul li a .bar,#menu ul li a .bar:before,#menu ul li a .bar:after,.single-people .hover-wrap .overlay,.item-project .hover-wrap .overlay,.navigation-blog ul li.prev a:hover,.navigation-blog ul li.next a:hover,.wpcf7 .wpcf7-submit:hover,#blog .post-thumb .hover-wrap .overlay,#latest-posts .post-thumb .hover-wrap .overlay,.badge,#commentform #submit:hover,#back-to-top:hover,.tagcloud a:hover,.tagcloud a:active,.tagcloud a:focus,.widget_quick-flickr-widget ul li a .overlay,.social_widget a:hover,.fancybox-nav:hover span,.button-main:hover,.button-main:active,.button-main:focus,.button-main.inverted,.tooltip-inner,.highlight-text,.dropcap-color,.progress .bar,.lightbox .fancy-wrap .overlay,.pricing-table .confirm,.pricing-table.selected h5,.pricing-table.selected .price,.mejs-overlay:hover .mejs-overlay-button,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-submenu:hover>a,.navigation-blog ul li.prev a,.navigation-blog ul li.next a,.wpcf7 .wpcf7-submit,#commentform #submit,.tagcloud a,.social_widget a,.button-main,.dropmenu:hover,.dropmenu:hover,.dropmenu.open,.dropmenu.open,.accordion-heading:hover .accordion-toggle,.accordion-heading:hover .accordion-toggle.inactive,.accordion-heading .accordion-toggle.active,.nav>li>a:hover,.nav>li>a:focus,.nav-tabs>.active>a,.nav-tabs>.active>a:hover,.nav-tabs>.active>a:focus,.box:hover .icon:after,.box:active .icon:after,.box:focus .icon:after{border-color:#56646f}.single-people:hover .team-name,.single-people .team-name:hover,.item-project:hover .project-name,.item-project .project-name:hover,#blog article:hover,#latest-posts article:hover{border-bottom-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.top .tooltip-arrow{border-top-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.right .tooltip-arrow{border-right-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.left .tooltip-arrow{border-left-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}.tooltip.bottom .tooltip-arrow{border-bottom-color:linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}#circle:after{box-shadow:0 0 0 4px linear-gradient(0deg, rgba(224,79,57,1) 0%, rgba(248,138,121,1) 100%)}
     .alert-box {
         width: 320px;
         height: 107px;
