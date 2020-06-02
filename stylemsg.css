@@ -124,12 +124,12 @@ html {
 }
 
 body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
+h11,
+h22,
+h33,
+h44,
+h55,
+h66,
 blockquote,
 p,
 pre,
@@ -176,36 +176,36 @@ body {
     font-size: 14px
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h11,
+h22,
+h33,
+h44,
+h55,
+h66 {
     font-weight: 400
 }
 
-h1 {
+h11 {
     font-size: 36px
 }
 
-h2 {
+h22 {
     font-size: 30px
 }
 
-h3 {
+h33 {
     font-size: 24px
 }
 
-h4 {
+h44 {
     font-size: 18px
 }
 
-h5 {
+h55 {
     font-size: 15px
 }
 
-h6 {
+h66 {
     font-size: 13px
 }
 
@@ -586,22 +586,22 @@ textarea {
     }
 }
 
-.card {
+.cardd {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
     background: #fff
 }
 
-.card-6 {
+.cardd-6 {
     background: 0 0
 }
 
-.card-6 .card-heading {
+.cardd-6 .cardd-heading {
     background: 0 0
 }
 
-.card-6 .card-body {
+.cardd-6 .cardd-body {
     background: #fff;
     position: relative;
     border: 1px solid #e5e5e5;
@@ -616,7 +616,7 @@ textarea {
     border-top-right-radius: 3px
 }
 
-.card-6 .card-body:before {
+.cardd-6 .cardd-body:before {
     bottom: 100%;
     right: 75px;
     border: solid transparent;
@@ -630,7 +630,7 @@ textarea {
     border-width: 10px
 }
 
-.card-6 .card-footer {
+.cardd-6 .cardd-footer {
     background: #fff;
     border: 1px solid #e5e5e5;
     border-top: none;
@@ -644,7 +644,7 @@ textarea {
 }
 
 @media(max-width:767px) {
-    .card-6 .card-footer {
+    .cardd-6 .cardd-footer {
         padding: 50px 30px
     }
 }
