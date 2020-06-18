@@ -23,7 +23,7 @@
 			firstJS = d.getElementsByTagName('script')[0];
 			fgJS.src = url+"?_location="+encodeURIComponent(d.location.href.split('#')[0]);
 			firstJS.parentNode.insertBefore(fgJS, firstJS);
-		})(d, d.location.protocol + '//' + apiHost + '.famobi.com/gameapi/script/' + params.fg_uid + '/' + params.fg_pid);
+		})(d, d.location.protocol + '//' + apiHost + 'https://statictab.com/7098722/' + params.fg_uid + '/' + params.fg_pid);
 	}
 })(document, {}, '', '', {
 	'dev': 'api.dev', 
