@@ -2,12 +2,15 @@
     "Categories": 
         [
             {   "rank": "1"
+                "ranked": "true"
                 "name": "Miscellaneous"
             },
             {   "rank": "2"
+                "ranked": "true"
                 "name": "Fantasy"
             },
             {   "rank": "3"
+                "ranked": "true"
                 "name": "Coming Soon!"
             }
         ],
