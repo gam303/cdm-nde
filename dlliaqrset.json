@@ -1,19 +1,13 @@
 {
     "Categories": 
         [
-           "string_weighted_set{\"item 1\" }":  {
-            	"rank": 1,
-                "ranked": true,
+            {
                 "name": "Miscellaneous"
             },
-          "string_weighted_set{\"item 2\"}":  {
-            	"rank": 2,
-                "ranked": true,
+            {
                 "name": "Fantasy"
             },
-           "string_weighted_set{\"item 3\"}":  {
-		"rank": 3,
-                "ranked": true,
+			{
                 "name": "Coming Soon!"
             }
         ],
