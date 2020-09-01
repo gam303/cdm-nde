@@ -1,16 +1,16 @@
 {
     "Categories": 
         [
-            {   "rank": "1"
-                "ranked": "true"
+            {   "Rank":"1"
+                "Ranked":"true"
                 "name": "Miscellaneous"
             },
-            {   "rank": "2"
-                "ranked": "true"
+            {   "Rank":"2"
+                "Ranked":"true"
                 "name": "Fantasy"
             },
-            {   "rank": "3"
-                "ranked": "true"
+            {   "Rank":"3"
+                "Ranked":"true"
                 "name": "Coming Soon!"
             }
         ],
