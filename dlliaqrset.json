@@ -11,13 +11,8 @@
                 "ranked": true,
                 "name": "Fantasy"
             },
-            {
-            	"rank": 3,
-                "ranked": true,
-                "name": "Coming Soon!"
-            },
 	    {
-		"rank": 4,
+		"rank": 3,
                 "ranked": true,
                 "name": "Coming Soon!"
             }
