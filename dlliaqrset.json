@@ -1,13 +1,13 @@
 {
     "Categories": 
         [
-            {
+            {   “Level": "1"
                 "name": "Miscellaneous"
             },
-            {
+            {   “Level": "2"
                 "name": "Fantasy"
             },
-			{
+            {   “Level": "3"
                 "name": "Coming Soon!"
             }
         ],
