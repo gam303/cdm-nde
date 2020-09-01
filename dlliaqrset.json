@@ -1,13 +1,13 @@
 {
     "Categories": 
         [
-            {   “rank": "1"
+            {   "rank": "1"
                 "name": "Miscellaneous"
             },
-            {   “rank": "2"
+            {   "rank": "2"
                 "name": "Fantasy"
             },
-            {   “rank": "3"
+            {   "rank": "3"
                 "name": "Coming Soon!"
             }
         ],
