@@ -10,14 +10,13 @@
 			{
                 "name": "Coming Soon!"
             }
-            
-            let ranking = arr.reduce((acc, curr) => {
-  if(acc[curr.name]) acc[curr.name]++;
-  else acc[curr.name] = 1;
-  return acc;
-},{});
+var result = Object.values(array.reduce((a, c) => {
+  (a[c.name] || (a[c.name] = {name: c.name, rank: 0})).rank++;
+  return a;
+}, {})).sort((a, b) => b.rank - a.rank);
+result.forEach((r, i) => r.rank = i + 1);
 
-console.log(ranking);
+console.log(result);
             
         ],
 		"Wallpapers":
