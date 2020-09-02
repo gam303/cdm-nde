@@ -1,18 +1,24 @@
 {
     "Categories": 
         [
-            {   "Rank":"1"
-                "Ranked":"true"
+            {
                 "name": "Miscellaneous"
             },
-            {   "Rank":"2"
-                "Ranked":"true"
+            {
                 "name": "Fantasy"
             },
-            {   "Rank":"3"
-                "Ranked":"true"
+			{
                 "name": "Coming Soon!"
             }
+            
+            let ranking = arr.reduce((acc, curr) => {
+  if(acc[curr.name]) acc[curr.name]++;
+  else acc[curr.name] = 1;
+  return acc;
+},{});
+
+console.log(ranking);
+            
         ],
 		"Wallpapers":
     [
