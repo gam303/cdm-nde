@@ -1,16 +1,10 @@
 var array = [
-{
-    "Categories": 
-        [
-            {
-                "name": "Miscellaneous"
-            },
-            {
-                "name": "Fantasy"
-            },
-			{
-                "name": "Coming Soon!"
-            }
+{"Categories": [
+{"name": "Miscellaneous"},
+{"name": "Fantasy"},
+{"name": "Coming Soon!!"}
+];
+
 var result = Object.values(array.reduce((a, c) => {
   (a[c.name] || (a[c.name] = {name: c.name, rank: 0})).rank++;
   return a;
