@@ -1,19 +1,20 @@
+
 {
   "Categories": [
     {
       "name": "Programmers choice"
     },
     {
-      "name": "Editors' choice"
+      "name": "Editors choice"
     },
     {
-      "name": "Engineer's choice"
+      "name": "Engineers choice"
     },
     {
-      "name": "Artist's choice"
+      "name": "Artists choice"
     },
     {
-      "name": "CEO's choice"
+      "name": "CEOs choice"
     },
     {
       "name": "HDR Remaster"
@@ -26,6 +27,9 @@
             },
 			{
        "name": "Miscellaneous"
+            },
+            {
+       "name": "Coming Soon!"
             }
         ],
   "Wallpapers": [
@@ -34,2968 +38,2968 @@
       "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1444703686981-a3abbc4d4fe3.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/joel-filipe-QwoNAhbmLLo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1484589065579-248aad0d8b13.jpg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Editors' choice"
+      "category": "Miscellaneous,Programmers choice,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/JK-EhSxbBCjr9A-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1477132394330-d2376dc4c091.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ron-whitaker-mVuKCYMGZBM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517241034903-9a4c3ab12f00.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-kiesow-XakAFeeQZI0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502847427791-d0194ec4cff4.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice,Programmer's choice"
+      "category": "Miscellaneous,Artists choice,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/robert-shunev-mS1nlYbq1kA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516724562728-afc824a36e84.jpg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-UgNjyPkphtU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1496989981497-27d69cdad83e.jpg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/dominik-lange-Lej_oqHljbk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506220926022-cc5c12acdb35.jpg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/chuttersnap-0M5URHZ_f3k-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498721441674-67b1e1e17a5b.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-yM3T1vYh8Oc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483104879057-379b6c2fe5a2.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-zjPasgivhcc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1523669565872-ab32c1c3a6f2.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-G7VN8NadjO0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1495420378468-78588a508652.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-JcSsu-NF3qo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1486783046960-64d2ef697c46.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-ucy26ngihpM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483066005675-b2af4d776b16.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-qwHEa5Mj5I4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1561162104-f10cf6a8c716.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-TKFMygXIcqY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1559179961-558bad4572fa.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-TKFMygXIcqY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1559179961-558bad4572fa.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-2cgAJYX1lYM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1541560962515-a132503ff969.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-2cgAJYX1lYM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1541560962515-a132503ff969.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-a_KlfuiO3iM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1536922510820-b75c1f7c87c1.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-ZsfnF50GKzQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1528333778337-19261c348314.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-d5hGfIOxAgs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1529891810142-889b3d7d1eaa.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-YpyxLl3vkyI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524412362354-024895738eb5.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-gLBCxsQEA60-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1523316970297-654e42445f32.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-WUIb4wb_dBM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524359332248-808287b9aa04.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-UuQGEKNVl7k-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1522244851587-526342cbab2d.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-Kgo4ZGp4VQM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520479447767-57476b084b7e.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-u6XKiFvtpQ0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1510877275-cf9a89103efe.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-RMee7KGSI5o-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1510800284535-03ece7e6b3b3.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-CUKyPGj0Zn8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1510189391615-d2677d3e8e8f.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-NAK72Bemqk0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1501407967-7290a62dcdde.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-7QbiPjEKDI0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1500140448-cb5f6c3bdf9d.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-l2yFqXQkZW4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498532433173-4a404bcfe32a.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-8TLQMMJp_Y0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1495420233471-7ff3f397d22f.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-ONMAObkR4bY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483061700269-444e94126251.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/osman-rana-h8ZvH1Nf7Bk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1494122353634-c310f45a6d3c.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-0LU4vO5iFpM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1450849608880-6f787542c88a.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-YRwM11f8Cgo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1491439005413-4ed9f58ef2ad.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-_BKutsRHLLg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1491439924795-57aca9e1633f.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/JK-AyH9hAmiX9Y-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558981420-c532902e58b4.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/JK-MAhPucR_Hq4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558980664-ce6960be307d.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/JK-sYbVbxSmdVQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558980664-4d79c6e77b93.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/JK-7zBJa1-S224-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558975355-84703f540cf6.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-P2PtvuImLRg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1493015780735-f7330a5c88f2.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-1XgFFEG_RGA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502085026219-54ac00e06fd9.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-kMr6pfPG50g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1497675803490-b110e156f945.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-perkins-94Sy8Wqngc4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506917310505-d967ce16bd72.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/todd-quackenbush-eStCg6FRw_E-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1447966531936-911738a2a722.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/mikkel-bech-yjAFnkLtKY0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1532298229144-0ec0c57515c7.jpg",
       "name": "Wallpaper",
-      "category": "Engineer's choice"
+      "category": "Miscellaneous,Engineers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/geran-de-klerk-3QwGAsBWAis-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1555492217-7bb078f32c8e.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/geran-de-klerk-fpC5Jq7LLL8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1540377536853-9dcd8b00ec43.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/geran-de-klerk-KsMD_tAdjg0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1541414779316-956a5084c0d4.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice,HDR Remaster"
+      "category": "Miscellaneous,Editors choice,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/geran-de-klerk-UcBkRilVFVs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1530090382228-7195e08d7a75.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/geran-de-klerk-bKhETeDV1WM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1504006833117-8886a355efbf.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hannah-troupe-0FQneB1VjaM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1503431128871-cd250803fa41.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hao-wang-pVq6YhmDPtk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1488554378835-f7acf46e6c98.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hao-wang-RryfUW2fDlg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1490883157965-e39f72d107fa.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/josh-rose-trYl7JYATH0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1515462277126-2dd0c162007a.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/david-jorre-oQbLeq4nOek-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1529753253655-470be9a42781.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/david-jorre-vRXNzG3-7Xo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1529752994925-22bc2094fceb.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/steven-lu-CIyDU5WLxxw-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1530787167509-8eca32f47c60.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-mejicanos-jMbdbWz6muo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516123621232-5e3940f2275b.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Jacob Mejicanos",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-mejicanos-Q0Kva9nSO54-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516123359062-32456af7c128.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-alberto-gomez-iniguez-jNj2ldEc4N0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1513223945279-4bf9e7049c9d.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexandru-acea-qEXFE5h0e8g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502736842968-bcaab72d0700.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexandru-acea-5O0nPYaXoi0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502736885509-af72c92db31a.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexandru-acea-DGO8OCagD98-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525426438570-f0d1c4d7c3b4.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexandru-acea-dP5ZnIE4A40-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1531955895395-7746706426e6.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/majid-rangraz-9U-cMS5oGeI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525642351754-db88d9142dee.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/majid-rangraz-IPMaxeoHXi4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524671470795-c7d181eca26e.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/majid-rangraz-KwP-c7kBxeU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524603062253-b5ce03a3b49b.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/majid-rangraz-Ixt6NfWqUfA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524219726159-3cbf91ce4b70.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/majid-rangraz-1wgGxUEa0XQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524602997322-c1900e093d3d.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-FiQ1Z7qrF2U-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1554568037-248d4185eb00.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-IgYmlps98Vk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524935479513-9d3076e4358a.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-6tx6K80_IJw-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520883579495-5592ae324d5d.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-lhZVpurjd2Q-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1521992901127-109289c3fcfd.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-ykKI3fCpB6k-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520293545326-4880baf201d3.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-Y2G16TB2fws-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1519058497187-7167f17c6daf.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-J_9etWzDwTA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520087976699-624d8c6c00cd.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-0KL3X_bIrZk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1502133400819-ce64f5f28ce7.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/carlos-quintero-_wbpK1imCrs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1500220621438-7f1c548f639a.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/tiagojoaoreis-BDW11tGGIAs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1528158134711-e89943f34728.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/matt-alaniz-jbaxoX-sm8s-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1491782807082-4e6d51f95fb4.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/tyler-lastovich-3shfnfzdFVc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1490049350474-498de43bc885.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/anastasia-zhenina-E4XARZNDjzI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1485075792961-9ea033ad04fc.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/garidy-sanders-OUYmyfUcSnI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1494291130293-a96048655b98.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/acrylic-art-artistic-1083617.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pexels-photo-1083617.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/acrylic-art-artistic-1083618.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pexels-photo-1083618.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/art-artistic-background-990826.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pexels-photo-990826.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/art-artistic-background-1020315.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pexels-photo-1020315.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/black-background-colored-smoke-colorful-1065714.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pexels-photo-1065714.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/art-artistic-black-background-1092372.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pexels-photo-1092372.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot1_20190912161506.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot1_20190912162034.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot2_20190912161558.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot2_20190912162001.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot3_20190912161611.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot3_20190912161953.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot4_20190912161624.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot4_20190912162027.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot6_20190912161701.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot6_20190912161920.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot7_20190912161713.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot7_20190912161933.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot8_20190912161722.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot8_20190912161940.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hot9_20190912161732.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/hot9_20190912161858.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/129222_original_2602x3255.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG2.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/128636_original_2623x3279.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG5.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-h8nxGssjQXs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1484950763426-56b5bf172dbb.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie--yeib6rQpxQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1567501352748-cf90d0c1aeea.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-Tx0MZO77lCs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1543796823-25c46096174f.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-dTQyfxfdtp8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1544221818-74e341c81174.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-UPWuKzAcuUI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1549138144-42ff3cdd2bf8.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-KbyjEJAYCTE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1544538522-e36e90ea336b.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-kem3xr844k4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1542668083-fad855298842.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-xW7Cdhoe9uA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1541980003984-e8a9dd38025c.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-Obyt4h4M5iY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1543787612-a800a97772b0.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-X8E6NBxFhpA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1539110306704-fabc10bdcad9.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-FOcMXBbe5rU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1537136102161-ea2262437412.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-gfABSdsZKK8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1536261895466-756de4eaece0.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-eB9LApAsDJA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525624160868-97095e12e633.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-EOoa3D1N0xc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1523057530100-383d7fbc77a1.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-KTmq17fSwkQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1521400567039-e52d9fd1a944.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-IK07OmXSnmU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1513786704796-b35842f0dca6.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-zYh2OYkTbdQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507065013285-ea0e21dde29a.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-JpBrBQYftII-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1508234562163-534667a7e3ea.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-VeiHRfGxTzY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1505643052356-9ef5b99ce666.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-3l3RwQdHRHg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1491466424936-e304919aada7.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-3N5ccOE3wGg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1490237014491-822aee911b99.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-1hpE3fROU0I-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1490143921278-d853145e4977.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-EvKBHBGgaUo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1488415032361-b7e238421f1b.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-8I49k45G-3A-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1485646485012-f09e6a19d9c4.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-iokiwAq05UU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1485724417692-19b9fb72d5ce.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jonatan-pie-9KZ0dP7CTPE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1483310354109-4c18fe172a1c.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-wXij3xpqxuU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1563107468-f5fb78ac7d11.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-BIzowjmRc_g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525340581945-d5e2b09641c4.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-XvSio7n_X6k-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525253604620-23ac591dbea0.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-OgsVEzb6AEc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525166877954-16f07a81119b.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-zQrzlKQU2Ag-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525683615141-0e93e2cb059c.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-vFsD44ubd-Q-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1525942095782-ff1f7fae6332.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-TRXSkmJb40c-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1527842891421-42eec6e703ea.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-D5b3iZF1RrI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517832349388-a54430ac9af0.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-5Qqkjn4PFPA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517411032315-54ef2cb783bb.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/luke-stackpoole-YNQgPXShu7g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1518430272387-254558840136.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/141702_original_3240x4536.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG14.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice"
+      "category": "Miscellaneous,Programmers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/victor-rodriguez-5rchckwczuc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1529738609971-27263e03fce4.jpeg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/victor-rodriguez-JrA2g6nb_Wc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1530056559957-5ddaae9bc4a1.jpeg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/victor-rodriguez-UrfpprfDB0k-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1530919424169-4b95f917e937.jpeg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/victor-rodriguez-e5g9otcYzkU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1530472604209-582db291e1eb.jpeg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-1gSoPQCu29A-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507491910083-29fad9a7778e.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-RBqyQYYepIY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507685063974-910fabef5974.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-roJEXXvP1gU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507248732433-9f2800f791b8.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-0eLofogafxQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507575739716-1b35cb4cbc3d.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-MJv31qXqSOU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507752533523-5186b0bc4c43.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/marc-olivier-jodoin-EnFCAJhHqj8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1517348613208-e735cf2d1439.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/139668_original_6982x3840.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG11.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/128579_original_3900x2600.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG12.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/120524_original_3440x5156.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG13.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/147254_original_2160x3840.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG18.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/147996_original_3840x2910.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG15.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/147796_original_2771x4156.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG16.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/147717_original_3294x4934.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG17.jpeg",
       "name": "HDR Edition",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract346.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG20.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract272.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG21.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdspace155.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG23.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdtexture2.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG28.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract32.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG29.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdspace118.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG24.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdnature19.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG25.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals414.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG26.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract40.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG27.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals117.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG37.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals284.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG38.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals444.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG36.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract87.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG32.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals355.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG35.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract213.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG34.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract59.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG31.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdmaterialdesigns3.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG39.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract114.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG33.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,CEO's choice"
+      "category": "Miscellaneous,Programmers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdmaterialdesigns5.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG41.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract64.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG42.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract139.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG43.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdmisc1.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG44.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract170.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG45.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdnature155.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG46.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract318.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG47.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdnature124.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG48.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdnature106.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG49.jpeg",
       "name": "Wallpaper",
-      "category": "Programmer's choice,Artist's choice"
+      "category": "Miscellaneous,Programmers choice,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdtexture80.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG51.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdavenue21.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG52.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdspace61.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG53.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals150.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG54.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdspace95.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG55.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdspace16.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG56.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdnature78.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG57.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdarchitecture187.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG58.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract116.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG59.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdvehicles8.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG60.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdanimals167.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG61.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract46.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG62.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdspace15.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG64.jpeg",
       "name": "Wallpaper",
-      "category": "Engineer's choice,CEO's choice"
+      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/yann-allegre-FvUrGzdYRms-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1567935850829-e52d7bfe37ce.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/lianhao-qu-4JWallpaper_YR0SLM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1568158951631-e1f33137ad76.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/guille-pozzi-naJwfMcJ1XU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1568387472059-46787e6078ae.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ben-turnbull-psW1ci6-_gY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1563569612166-d2aaeaaa5294.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/diogo-brandao-QTVxI9Ngguc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1565274952035-731fc8a22ead.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hunter-landis-ML_vybiB77g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1524416866085-e6895d696250.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/scott-riley-iNDat6c4yrs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1531306252771-c9544924d8e2.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/eriks-abzinovs-ngdpTQouVso-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1563311238-3bdfb680b4a8.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/pawel-czerwinski-bkGwwU_MNow-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1558470622-bd37a3c489e7.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hanan-PkM-23Dz3pA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1539873618283-751ad59a0a4b.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/max-ducourneau-zWQLnfMBxFI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1557474295-8fbaa04b4fee.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/dawid-sokolowski-mufeb7CMUxo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1550602883-4c2d2c705db2.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/arthur-rachbauer-vYyHLDPKWd4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1548678756-aa5ed92c4796.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ovca-productions-P4e80PeY7ew-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1549468939-a4760b08627a.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/stefan-cosma-GVlcXhQejA8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1548614229-c1fe21dfab63.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-gEta6dbzFy0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1545156521-77bd85671d30.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice,CEO's choice"
+      "category": "Miscellaneous,Editors choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-16XJMQ2bTl4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1537429149818-2d0e3e20857b.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice,CEO's choice"
+      "category": "Miscellaneous,Editors choice,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/clyde-he-qvwGbqaoKOQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1537164275099-a5a568722b1e.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/clem-onojeghuo-DSYx2VrQ8yQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1540028423756-2b7889aa3e93.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/eclipse-1492818.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/eclipse-1492818_640.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-Bs17elN9y98-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1501990996247-40eb1f34e4ca.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-3-BDd13cUa8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1557032154-01808b0d8320.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-xQeQP7jZJI0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1551254175-2fa4adb92d60.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-RAifY0OJe4w-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1544943910-4c1dc44aab44.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-k6BHLfw_jUg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1534575180408-b7d7c0136ee8.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-tp5sz33nBcg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1538719501547-bc023056a8b6.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kyaw-tun-nI3bUW1Xqik-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1534043464124-3be32fe000c9.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/stephen-leonardi--UWtb-3v6jQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1508050919630-b135583b29ab.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/adrian-bar-caj56NfTT3w-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1542306547-8af6965f0e8a.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jez-timms-ZHP6JNIXtfQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1478172326435-839f111a16c5.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/nouman-younas-TM4522xcNRs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1531213203257-16afb0eac95e.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/freddie-marriage-w39PTDxKiK8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1477936432016-8172ed08637e.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/peter-john-maridable-C2a4RGapd8s-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1451224222030-cee2f5dbcd10.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/brandon-day-oCJuJQqvCzc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1457144759132-40d119c2f120.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jc-dela-cuesta-MgG-w0Dg_Ek-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499382926300-90a93d2d9990.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/nadi-whatisdelirium-fZ8uf_L52wg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1500259571355-332da5cb07aa.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice,HDR Remaster"
+      "category": "Miscellaneous,Editors choice,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/vladimir-malyutin-6A_hN1SFjRI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1464798429116-8e26f96b2e60.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/joanna-kosinska-aqnCc2H1eME-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1480430158524-ae7ea5944e3f.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/frank-septillion-Qrspubmx6kE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1487215078519-e21cc028cb29.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/traf-ukTd6UiQbLQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1492573637402-25691cd9eac2.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/chuttersnap-8nMjIn195p0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498721425774-488298864da7.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jacob-kiesow-Mb_Rgr8iD88-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1501883590538-958e09295331.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/josh-nuttall-pIwu5XNvXpk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1497515098781-e965764ab601.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alex-blajan-XK_IgFdKHmY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1474226004578-62743874270f.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/james-hammond-FNVYos3W0AY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1503286666306-61c9985f16cc.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jairph-oCUeelrm1eI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1541497613813-0780960684f4.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/eryk-bGe5rSxKJBg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1539985965362-6d1f38ecd79b.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/anders-jilden-GjwsHRIcQjU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1443428018053-13da55589fed.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/clem-onojeghuo-6tedMQIJpNI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1487029752779-a0c17b1f5ec9.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jason-wong-uBn9T18v4iU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1504093376055-b3094b674dcb.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/adam-birkett-_IrFSypwykg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1543252358-f20f9c57bafe.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/leonardo-sanches-ttgvum3OWII-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1534515538060-80212d73acb6.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/pawel-czerwinski-LlXzILHulTM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1551478279-713be6cb027d.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/fabian-moller-gI7zgb80QWY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1507120410856-1f35574c3b45.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/clark-tibbs-oqStl2L5oxI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1504805572947-34fad45aed93.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jordan-whitfield-sm3Ub_IWallpaperQg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1468971050039-be99497410af.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ross-findon-mG28olYFgHI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499244571948-7ccddb3583f1.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/borna-bevanda-0ufo_AhJ2jU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1492254776308-d1fc1f3fd6f3.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ameen-fahmy-G2m_nnChw8M-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1539021929149-88832c42bc15.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/mukul-wadhwa-xpo5BggQo3E-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1541870730196-cd1efcbf5649.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/joshua-fuller-u1EGfuB4llU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1533309907656-7b1c2ee56ddf.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/william-daigneault-GAF48XT3yn8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1542328689-df6c076c1604.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/fab-lentz-mRMQwK513hY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1494178270175-e96de2971df9.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/dollar-gill-yqNRxWNrC04-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1506241537529-eefea1fbe44d.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/finn-hackshaw-FQgI8AD-BSg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1472898965229-f9b06b9c9bbe.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/drew-beamer-3SIXZisims4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1543332164-6e82f355badc.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/louis-smit-Cob2hJtJ8PY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1512117789060-5de1ecef9eb7.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/mohammad-metri-1oKxSKSOowE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1508700115892-45ecd05ae2ad.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/patrick-tomasso-n-vxsHr9jZA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1503876466-1fc5143eda57.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/andrew-robinson-xh3DYZLFfgA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1509857820193-a5c67e4c20ab.png",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ezekiel-elin-LNG1mPyJ8rg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520956571254-1fcfd1cdbec8.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/sweetheart-luchuxue1997-k_pBB5wJtaU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1546443046-ed1ce6ffd1ab.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/aaron-munoz-OACy7IAg-JU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1513702704439-43c770b2a4f3.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/yuri-bodrikhin-dXLnq8z8x4k-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520611084738-c4ad1e2e1903.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/noble-mitchell-CdwTHjJdvY0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1535009427281-a315ca1bc9aa.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jon-tyson-_j-sUa8lHy4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1528219086320-73c3c9558a26.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexandre-godreau-oXOIH4UAixo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1510664691675-9c263a118102.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/wes-hicks-ZEZeFBLfiLs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1560253740-f0e82b766d72.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alex-knight-1YezU5uMjLw-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1550559014-0ff3ad4b23ea.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jon-tyson-tangfe8KQdw-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1565206595640-6cfd90e0ae09.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/teymur-nasirli-EGRD9sgxQK4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1550933462-df6f1610c897.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/clem-onojeghuo-kfoSKoWc9Gg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1513807762437-8c8dee6b3776.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/andrew-mascote-YUp-jZsoEvg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1564547020801-a5d799993aa3.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/spencer-LzbkEblwufk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1529119348378-b7a288d63479.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/tim-mossholder-j8F0PDu5d60-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1518831476675-ba490966548c.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/tallie-robinson-yZlNNzVHsYg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1516916759473-600c07bc12d4.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jon-tyson-co1xvjqNjxU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1571450669798-fcb4c543f6a4.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kewal-SKQFF5qqR7o-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1549076814-1057c9ad9682.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/julian-bock-Y6-GL40aPPs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1447600514716-ca6f3974c346.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/julian-bock-Y6-GL40aPPs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1447600514716-ca6f3974c346.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/andrew-neel-jtsW--Z6bFw-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1475257026007-0753d5429e10.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/devon-janse-van-rensburg-TDviE-01J_g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1486371834297-a8195e31b251.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/devon-janse-van-rensburg-TDviE-01J_g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1486371834297-a8195e31b251.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/fabrizio-verrecchia-Ai7sV3SSMIQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1482775907821-a56ec43344fc.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/evgeni-evgeniev-LPKk3wtkC-g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1511207538754-e8555f2bc187.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/anh-nguyen-3W8iRG8-F-A-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1514883938800-2ba751309400.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/cobro-LVhC_4aAFuY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1552174588-6733961c358e.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/hrayr-movsisyan-pfhld_5yQrs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1492879291357-620e858bd26a.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/clay-banks-sgM7vHx0D2s-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1571142191114-feec5c22f686.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/pawel-nolbert-4u2U8EO9OzY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1498036882173-b41c28a8ba34.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jeremy-thomas-rMmibFe4czY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1454817481404-7e84c1b73b4a.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/taylor-smith-zirfLyJHbEA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1559076307-05db8f626111.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice"
+      "category": "Miscellaneous,Editors choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jude-beck-7Zu2iakvhr8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1571238353070-cedb5a9eadf4.jpg",
       "name": "Wallpaper",
-      "category": "Editors' choice,Engineer's choice"
+      "category": "Miscellaneous,Editors choice,Engineers choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/nathan-anderson-ZDYDZ2Zwpgs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1475139475866-6fef2ef89731.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/nathan-anderson-suhIKWU9oI8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1532240916534-3193d70b73f5.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexander-andrews-X6nU1pb8Dko-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1523968063095-61264537fc21.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alexander-andrews-gZbEl9JTnGk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1551828046-f79b15499328.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/adam-birkett-QRWAdBCqysc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1503328427499-d92d1ac3d174.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/david-werbrouck-5GwLlb-_UYk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499428665502-503f6c608263.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/dana-vollenweider-GzYQll7ojIM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1503345463055-de0624b23d82.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/nitish-meena--48aJfQpFCE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1451847487946-99830706c22d.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jason-leung-J2W_ifGe1jQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1511042326720-1c7b714f1936.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/nathan-dumlao-YNSdNgcseLo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1520176501380-9a174bf7c783.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/drew-beamer-3Z_0SxMEuUg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1543540813-4cf4bf79f8d9.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/yana-nikulina-1HtzdbptBr4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1567845735143-5e5d9d3f8f81.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/logan-weaver-qyQbykOhxAU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1567291145304-33ab53fb65cf.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jon-tyson-EJzxF5uwJ-o-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1569081156361-c98e05e7f1e4.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/devon-divine-qnb_y3ZDauU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1562388822-dc738d258b78.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/thiago-wimberly-3HrBXxl82e0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1549326371-ea41b6983c73.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/spencer-imbrock-JAHdPHMoaEA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1513829596324-4bb2800c5efb.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/charles-pLjFwX5VR-M-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1542587222-f9172e5eba29.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/alex-loup-I_S5d21eCEc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1571235854001-2c64e3fdd06a.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/henry-co-kLigji5y5IM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1570864977367-42d70041a3c1.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/faris-mohammed-wD4GGQy2YSY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1571637351508-80c727faa3d9.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/maks-styazhkin-sXB8Tiv_C5A-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1563181200-d38b4b16bb43.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ylona-maria-rybka-sgEwPD7HQhE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1570745096688-2f8f2368d1e7.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/anne-nygard-wgggZIP_voA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1570343096246-092fa979a4b8.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/xiang-ji-UwPDjANCoJI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1573108724029-4c46571d6490.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kirill-sharkovski-trbb1NeU4Jg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1564951141428-3dc40a03792d.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/theverticalstory-Myu5mqlODhg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1552245970-369cb69bee2b.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/leyy-m-71SHXwBLp5w-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1573767291321-c0af2eaf5266.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/james-sutton-mcjvw2570iA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1485860209903-01b62c988847.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/macau-photo-agency-a0rjc7wLPNg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1571753075494-b6a3587be1e0.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/zane-lee-6zjc6lM8Xo4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1560932684-5e552e2894e9.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/mateo-mood-Sq6JRTqno6E-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1499468610203-63b407c1debf.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/sam-healey-QfvJLxi2-uA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1559905270-57b2dca1357d.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/stormtrooper_1419.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/stormtrooper_1419_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o1.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o1t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o2.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o2t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o3.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o3t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o4.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o4t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o5.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o5t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o6.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o6t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o7.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o7t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/j31o8.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/j31o8t.jpeg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20251.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20251t.jpeg",
       "name": "February",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20252.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20252t.jpeg",
       "name": "February",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20253.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20253t.png",
       "name": "February",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20254.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20254t.jpeg",
       "name": "February",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20255.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20255t.jpeg",
       "name": "February",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/200301.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/200301t.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/200302.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/200302t.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/200303.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/200303t.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/200304.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/200304t.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/200305.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/200305t.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/200306.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/200306t.jpeg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/21500_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/21500_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/23361_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/23361_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/27737_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/27737_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/27787_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/27787_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/27830_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/27830_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice,HDR Remaster"
+      "category": "Miscellaneous,Artists choice,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28266_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28266_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice,HDR Remaster"
+      "category": "Miscellaneous,Artists choice,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28888_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28888_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/29335_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/29335_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice,HDR Remaster"
+      "category": "Miscellaneous,Artists choice,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/29464_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/29464_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice,HDR Remaster"
+      "category": "Miscellaneous,Artists choice,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/29795_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/29795_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/30034_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/30034_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/troy-taylor-LzzcbD8XoY4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1557105573-ebe3a7d9bfb0.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jack-l-smith-TrNQZkTrwHs-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/photo-1577638786478-83b176b704c1.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ussama-azam-26h317_UMYM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/ussama-azam-26h317_UMYM-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ledgor-lighting-er-B3izhHtQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/ledgor-lighting-er-B3izhHtQ-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daria-volkova-BGedzl_SSE4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daria-volkova-BGedzl_SSE4-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/rico-reutimann-3smP5J11AUc-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/rico-reutimann-3smP5J11AUc-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/sebastiaan-stam-RChZT-JlI9g-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/sebastiaan-stam-RChZT-JlI9g-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/wyron-a-n2PMAQxi-GM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/wyron-a-n2PMAQxi-GM-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "Artist's choice"
+      "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/lubo-minar-2lO5xNp3E0U-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/lubo-minar-2lO5xNp3E0U-unsplash_t.jpg",
       "name": "Exclusive[HDR Enhance]",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/bogomil-mihaylov-uiMcgs2qr0E-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/bogomil-mihaylov-uiMcgs2qr0E-unsplash_t.jpg",
       "name": "Exclusive[HDR Enhance]",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/DarkPix1577950579-Amoled-Phone-Wallpaper-071-1080x2340.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/DarkPix1577950579-Amoled-Phone-Wallpaper-071-1080x2340_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/DarkPix1583143400-ixmhgfx2s3k41.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/DarkPix1583143400-ixmhgfx2s3k41_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/DarkPix1582531935-zs7rmohprdh41.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/DarkPix1582531935-zs7rmohprdh41_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/27788_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/27788_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/27881_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/27881_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/27904_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/27904_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28024_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28024_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28227_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28227_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28472_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28472_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28481_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28481_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/28734_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/28734_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/29723_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/29723_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/30466_uhd.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/30466_uhd_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/480_awm2842725.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/480_awm2842725_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/74208_awm897987234~2.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/74208_awm897987234~2_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/pacto-visual-cWOzOnSoh6Q-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pacto-visual-cWOzOnSoh6Q-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/diana-parkhouse-0p0lVOLdVmg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/diana-parkhouse-0p0lVOLdVmg-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/jason-leung-AxKqisRPQSA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/jason-leung-AxKqisRPQSA-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/etienne-godiard-D1psZGeKKd4-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/etienne-godiard-D1psZGeKKd4-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/zuzanna-adamczyk-cG6uTzOkCkg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/zuzanna-adamczyk-cG6uTzOkCkg-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/kati-hoehl-pTvYxVUeS8U-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/kati-hoehl-pTvYxVUeS8U-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-untkYJw7OfM-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-untkYJw7OfM-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-4i6Fsw5kl5M-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-4i6Fsw5kl5M-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-fTyBR0bkDF8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-fTyBR0bkDF8-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-IAJNzZhDADQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-IAJNzZhDADQ-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-fazB8Al_LnE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-fazB8Al_LnE-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-UrdBlloc3oY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-UrdBlloc3oY-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-UpatVsW2kcg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-UpatVsW2kcg-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-vg-K6YoOIpo-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-vg-K6YoOIpo-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-_j6wbAlQ1ow-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-_j6wbAlQ1ow-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-dFA5XycbhoQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-dFA5XycbhoQ-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-YNUFtf4qyh0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-YNUFtf4qyh0-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-nocH2SHiEdY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-nocH2SHiEdY-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/daniel-olah-RWK1k-lq6HA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/daniel-olah-RWK1k-lq6HA-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster,CEO's choice"
+      "category": "Miscellaneous,HDR Remaster,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/isaac-quesada-WA3d-EztuBQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/isaac-quesada-WA3d-EztuBQ-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/isaac-quesada-wNMBIXV4FR0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/isaac-quesada-wNMBIXV4FR0-unsplash_t.jpg",
       "name": "July",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/damir-auQ8waZZbyA-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/damir-auQ8waZZbyA-unsplash_t.jpg",
       "name": "July",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/isaac-quesada-h2_gDcYUbvg-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/isaac-quesada-h2_gDcYUbvg-unsplash_t.jpg",
       "name": "July",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/keo-oran-5zccnIZsYgk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/keo-oran-5zccnIZsYgk-unsplash_t.jpg",
       "name": "July",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/pedro-da-silva-Fqw7jHFZRZ0-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pedro-da-silva-Fqw7jHFZRZ0-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/garvit-jagga-v8m-HXC0I3E-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/garvit-jagga-v8m-HXC0I3E-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/ksenia-makagonova-_2qd6uhZzgE-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/ksenia-makagonova-_2qd6uhZzgE-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/edi-libedinsky-DjFOoPWs0UY-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/edi-libedinsky-DjFOoPWs0UY-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/pranay-soni-VZwHoTRt8nI-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/pranay-soni-VZwHoTRt8nI-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/brad-stallcup-_Js9c6w_FDk-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/brad-stallcup-_Js9c6w_FDk-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/brad-stallcup-qIAw1kNk1p8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/brad-stallcup-qIAw1kNk1p8-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/brad-stallcup-eT05YC-sbT8-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/brad-stallcup-eT05YC-sbT8-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/brad-stallcup-v0ONtgs7dpU-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/brad-stallcup-v0ONtgs7dpU-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/george-flowers-blYe0BupDuQ-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/george-flowers-blYe0BupDuQ-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "CEO's choice"
+      "category": "Miscellaneous,CEOs choice"
     },
     {
       "author": "Ibra Him",
       "url": "https://realzhangandandroid.github.io/amoled/4k/siana-goodwin-BmktBtKSl3Y-unsplash.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/siana-goodwin-BmktBtKSl3Y-unsplash_t.jpg",
       "name": "Wallpaper",
-      "category": "HDR Remaster"
+      "category": "Miscellaneous,HDR Remaster"
     },
     {
 "author":"Mod-JS",
