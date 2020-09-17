@@ -1,4 +1,3 @@
-
 {
   "Categories": [
     {
@@ -22,14 +21,20 @@
     {
        "name": "Coming Soon!"
             },
-			{
+         {
        "name": "Fantasy"
             },
-			{
+            {
+                "name": "Automobile"
+            },
+            {
+                "name": "Superheroes"
+            },
+         {
        "name": "Miscellaneous"
             },
             {
-       "name": "Coming Soon!"
+                "name": "Animals"
             }
         ],
   "Wallpapers": [
@@ -1155,13 +1160,6 @@
     },
     {
       "author": "JK",
-      "url": "https://realzhangandandroid.github.io/amoled/4k/uhdtexture2.jpg",
-      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG28.jpeg",
-      "name": "Wallpaper",
-      "category": "Miscellaneous,Programmers choice,CEOs choice"
-    },
-    {
-      "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/uhdabstract32.jpg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG29.jpeg",
       "name": "Wallpaper",
@@ -1320,13 +1318,6 @@
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG49.jpeg",
       "name": "Wallpaper",
       "category": "Miscellaneous,Programmers choice,Artists choice"
-    },
-    {
-      "author": "JK",
-      "url": "https://realzhangandandroid.github.io/amoled/4k/uhdtexture80.jpg",
-      "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/WechatIMG51.jpeg",
-      "name": "Wallpaper",
-      "category": "Miscellaneous,Engineers choice,CEOs choice"
     },
     {
       "author": "JK",
@@ -3177,6 +3168,268 @@
 "name":"Wallpaper",
 "category":"Miscellaneous"
       },
+      {
+      "author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119599849_318655752748264_2274200512633212078_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=0EzaZ6Hb-tQAX8Oab09&_nc_ht=scontent-otp1-1.xx&oh=2f03addbe152cf455f9bc1004c0230cf&oe=5F8943FF",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119599849_318655752748264_2274200512633212078_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=0EzaZ6Hb-tQAX8Oab09&_nc_ht=scontent-otp1-1.xx&oh=2f03addbe152cf455f9bc1004c0230cf&oe=5F8943FF",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+      "author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119514547_350695942950994_8559037338713288891_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=y3zIil8jrX0AX9QWoM5&_nc_ht=scontent-otp1-1.xx&oh=83677993ba1bb4a57fcf17a331a22ad1&oe=5F89BFBD",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119514547_350695942950994_8559037338713288891_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=y3zIil8jrX0AX9QWoM5&_nc_ht=scontent-otp1-1.xx&oh=83677993ba1bb4a57fcf17a331a22ad1&oe=5F89BFBD",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119529557_363453008113529_4619484072009188444_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=yhzqw0jBC1cAX-0bj_g&_nc_ht=scontent-otp1-1.xx&oh=50ab579329564a9b21e149fe10bd2f2b&oe=5F88CAEB",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119529557_363453008113529_4619484072009188444_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=yhzqw0jBC1cAX-0bj_g&_nc_ht=scontent-otp1-1.xx&oh=50ab579329564a9b21e149fe10bd2f2b&oe=5F88CAEB",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119568331_331216001537078_7047489712163430021_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=Y5IbjPFkVoEAX8tI4oO&_nc_ht=scontent-otp1-1.xx&oh=a868d8e7a1520df1023bed37a8230ab1&oe=5F891215",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119568331_331216001537078_7047489712163430021_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=Y5IbjPFkVoEAX8tI4oO&_nc_ht=scontent-otp1-1.xx&oh=a868d8e7a1520df1023bed37a8230ab1&oe=5F891215",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119538541_312369696687704_761380266930094943_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=auWHcO35YQwAX_q2cH5&_nc_ht=scontent-otp1-1.xx&oh=ccde7b2da75030073fbf49f0e71fbdeb&oe=5F89C385",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119538541_312369696687704_761380266930094943_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=auWHcO35YQwAX_q2cH5&_nc_ht=scontent-otp1-1.xx&oh=ccde7b2da75030073fbf49f0e71fbdeb&oe=5F89C385",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119567710_383774826336007_5668072613996930660_n.png?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=g-YDs9CaEWUAX8fxW2y&_nc_ht=scontent-otp1-1.xx&oh=3b894b4385b0614577991231607de8e7&oe=5F89AF30",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119567710_383774826336007_5668072613996930660_n.png?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=g-YDs9CaEWUAX8fxW2y&_nc_ht=scontent-otp1-1.xx&oh=3b894b4385b0614577991231607de8e7&oe=5F89AF30",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119567094_315373609726556_2100155920997561856_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=RmgAvB7vpXMAX_d_PFf&_nc_ht=scontent-otp1-1.xx&oh=5c74d00ba280877727153ae2e968b0d7&oe=5F89D476",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119567094_315373609726556_2100155920997561856_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=RmgAvB7vpXMAX_d_PFf&_nc_ht=scontent-otp1-1.xx&oh=5c74d00ba280877727153ae2e968b0d7&oe=5F89D476",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119669378_994452267670904_4481904554673029953_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=xFylGifBzy0AX-rQ4RD&_nc_ht=scontent-otp1-1.xx&oh=babaee54155523d6380f00d9a91e34c5&oe=5F8A32B6",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119669378_994452267670904_4481904554673029953_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=xFylGifBzy0AX-rQ4RD&_nc_ht=scontent-otp1-1.xx&oh=babaee54155523d6380f00d9a91e34c5&oe=5F8A32B6",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119701830_1261437814201070_5286400857951116071_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=9xLLC2N-IwgAX8Yqmmf&_nc_ht=scontent-otp1-1.xx&oh=047d4c64a8f4ae89e01e3386f9b17d8e&oe=5F892915",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119701830_1261437814201070_5286400857951116071_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=9xLLC2N-IwgAX8Yqmmf&_nc_ht=scontent-otp1-1.xx&oh=047d4c64a8f4ae89e01e3386f9b17d8e&oe=5F892915",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"Ibra Him",
+"url":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119675593_3939535219391965_1980951361809493310_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=LClj_GUvRS4AX8ENPGU&_nc_ht=scontent-otp1-1.xx&oh=d189f1adc517054be860ff1824df0351&oe=5F88C26D",
+"thumbUrl":"https://scontent-otp1-1.xx.fbcdn.net/v/t1.15752-9/119675593_3939535219391965_1980951361809493310_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=LClj_GUvRS4AX8ENPGU&_nc_ht=scontent-otp1-1.xx&oh=d189f1adc517054be860ff1824df0351&oe=5F88C26D",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Miscellaneous,Fantasy"
+      },
+      {
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/653_Terra_Lumina_-_Portal_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/653_Terra_Lumina_-_Portal_Amoled_Wallpaper.jpg",
+"blackper":"82.38",
+"name":"Terra Lumina - Portal",
+"category":"People,Light / Neons"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/656_Vancouver_House_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/656_Vancouver_House_Amoled_Wallpaper.jpg",
+"blackper":"57.19",
+"name":"Vancouver House",
+"category":"Miscellaneous,Fantasy"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/657_vintage_mercedes_2_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/657_vintage_mercedes_2_Amoled_Wallpaper.jpg",
+"blackper":"81.17",
+"name":"Vintage Mercedes",
+"category":"Automobile"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/658_White_Bird_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/658_White_Bird_Amoled_Wallpaper.jpg",
+"blackper":"68.54",
+"name":"White Bird",
+"category":"Animals"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/659_Wolf_Art_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/659_Wolf_Art_Amoled_Wallpaper.jpg",
+"blackper":"66.88",
+"name":"Wolf Art",
+"category":"Illustrations,Animals"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/660_aerial_view_of_buildings_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/660_aerial_view_of_buildings_Amoled_Wallpaper.jpg",
+"blackper":"64.15",
+"name":"Aerial View Of Buildings",
+"category":"Miscellaneous,Fantasy"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/661_aquaman_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/661_aquaman_Amoled_Wallpaper.jpg",
+"blackper":"83.40",
+"name":"Aquaman",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/662_Avengers_Logo_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/662_Avengers_Logo_Amoled_Wallpaper.jpg",
+"blackper":"84.29",
+"name":"Avengers Logo",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/663_Batman_4_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/663_Batman_4_Amoled_Wallpaper.jpg",
+"blackper":"77.20",
+"name":"Batman 4",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/664_Batman_5_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/664_Batman_5_Amoled_Wallpaper.jpg",
+"blackper":"55.17",
+"name":"Batman 5",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/665_Batman_6_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/665_Batman_6_Amoled_Wallpaper.jpg",
+"blackper":"58.02",
+"name":"Batman 6",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/666_birdeye_view_of_sea_waves_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/666_birdeye_view_of_sea_waves_Amoled_Wallpaper.jpg",
+"blackper":"42.47",
+"name":"Birdeye View Of Sea Waves",
+"category":"Miscellaneous,Fantasy"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/667_black_coupe_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/667_black_coupe_Amoled_Wallpaper.jpg",
+"blackper":"85.08",
+"name":"Black Coupe",
+"category":"Automobile"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/668_Black_Porsche_911_2_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/668_Black_Porsche_911_2_Amoled_Wallpaper.jpg",
+"blackper":"60.19",
+"name":"Black Porsche 911 2",
+"category":"Automobile"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/669_Captain_America_2_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/669_Captain_America_2_Amoled_Wallpaper.jpg",
+"blackper":"73.73",
+"name":"The Flash 4",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/670_Captain_America_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/670_Captain_America_Amoled_Wallpaper.jpg",
+"blackper":"74.93",
+"name":"Captain America",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/671_Chinese_Temple_2_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/671_Chinese_Temple_2_Amoled_Wallpaper.jpg",
+"blackper":"75.55",
+"name":"Chinese Temple 2",
+"category":"Miscellaneous"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/672_Chinese_Temple_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/672_Chinese_Temple_Amoled_Wallpaper.jpg",
+"blackper":"52.33",
+"name":"Chinese Temple",
+"category":"Miscellaneous"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/673_City_Star_Trail_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/673_City_Star_Trail_Amoled_Wallpaper.jpg",
+"blackper":"38.38",
+"name":"City Star Trail",
+"category":"Miscellaneous"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/674_Colorful_sunset_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/674_Colorful_sunset_Amoled_Wallpaper.jpg",
+"blackper":"56.32",
+"name":"Colorful Sunset",
+"category":"Miscellaneous"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/675_Columbus_city_light_trails_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/675_Columbus_city_light_trails_Amoled_Wallpaper.jpg",
+"blackper":"58.77",
+"name":"Columbus City Light Trails",
+"category":"Miscellaneous"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/676_Dazzle_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/676_Dazzle_Amoled_Wallpaper.jpg",
+"blackper":"63.89",
+"name":"Dazzle",
+"category":"Miscellaneous"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/677_Dotonburi_Japan_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/677_Dotonburi_Japan_Amoled_Wallpaper.jpg",
+"blackper":"55.46",
+"name":"Dotonburi Japan",
+"category":"Miscellaneous,Fantasy"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/678_dr_strange_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/678_dr_strange_Amoled_Wallpaper.jpg",
+"blackper":"69.26",
+"name":"Dr Strange",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/679_Ebony_Maw_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/679_Ebony_Maw_Amoled_Wallpaper.jpg",
+"blackper":"71.96",
+"name":"Ebony Maw",
+"category":"Superheroes"},
+{
+"author":"JK",
+"url":"https://amoled.in/appwallpapers/681_golden_hour_Amoled_Wallpaper.jpg",
+"thumbUrl":"https://amoled.in/appwallpapers/preview/681_golden_hour_Amoled_Wallpaper.jpg",
+"blackper":"60.10",
+"name":"Golden Hour",
+"category":"Miscellaneous,Fantasy"},
       {
 "author":"Mod-JS",
 "url":"https://gam303.github.io/cdm-nde/hd_42050-12.jpg",
