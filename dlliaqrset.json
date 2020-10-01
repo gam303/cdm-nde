@@ -25,6 +25,9 @@
        "name": "Fantasy"
             },
             {
+                "name": "Animals"
+            }
+            {
                 "name": "Automobile"
             },
             {
@@ -32,9 +35,6 @@
             },
          {
        "name": "Miscellaneous"
-            },
-            {
-                "name": "Animals"
             }
         ],
   "Wallpapers": [
@@ -3821,7 +3821,7 @@
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-61.jpg",
 "blackper":"100.71",
 "name":"Wallpaper",
-"category":"Miscellaneous"
+"category":"Animals,Miscellaneous"
       },
       {
 "author":"JK",
@@ -3829,7 +3829,7 @@
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-62.jpg",
 "blackper":"100.71",
 "name":"Wallpaper",
-"category":"Miscellaneous"
+"category":"Animals,Miscellaneous"
       },
       {
 "author":"JK",
