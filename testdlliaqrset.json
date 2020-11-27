@@ -2,22 +2,27 @@
   "Categories": [
     {
     "no": 1,
+    "category_id": "1",
       "name": "Artists choice"
     },
     {
     "no": 2,
+    "category_id": "2",
       "name": "CEOs choice"
     },
     {
+    "category_id": "3",
     "no": 3,
       "name": "HDR Remaster"
     },
     {
          "no": 4,
+         "category_id": "4",
        "name": "Fantasy"
             },
     {
     "no": 5,
+    "category_id": "5",
        "name": "Coming Soon!"
             }
         ],
