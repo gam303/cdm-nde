@@ -21,7 +21,7 @@
        "name": "Coming Soon!"
             }
         ],
-        
+        {
         function sortJSON(arr, key, way) {
     return arr.sort(function(a, b) {
         var x = a[key]; var y = b[key];
