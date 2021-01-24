@@ -1,11 +1,11 @@
 {
   "Categories": [
     {
-    'status': 0,
+    "status": 0,
       "name": "Artists choice"
     },
     {
-    'status': 1,
+    "status": 1,
       "name": "CEO''s choice"
     },
     {
