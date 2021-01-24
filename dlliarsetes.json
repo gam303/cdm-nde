@@ -9,30 +9,19 @@
       "name": "CEO''s choice"
     },
     {
-    'status': 2,
+    "status": 2,
       "name": "HDR Remaster"
     },
     {
-         'status': 3,
+         "status": 3,
        "name": "Fantasy"
             },
     {
-    'status': 4,
+    "status": 4,
        "name": "Coming Soon!"
             }
         ],
-        {
-        function sortJSON(arr, key, way) {
-    return arr.sort(function(a, b) {
-        var x = a[key]; var y = b[key];
-        if (way ===  123 ) { return ((x < y) ? -1 : ((x > y) ? 1 : 0)); }
-        if (way ===  321 ) { return ((x > y) ? -1 : ((x < y) ? 1 : 0)); }
-    });
-}
-
-people2 = sortJSON(people, status ,  321 ); // 123 or 321
-alert("2. After processing (0 to x if 123; x to 0 if 321): "+JSON.stringify(people2));
-  "Wallpapers": [
+          "Wallpapers": [
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
@@ -4559,3 +4548,15 @@ alert("2. After processing (0 to x if 123; x to 0 if 321): "+JSON.stringify(peop
       }
    ]
 }
+
+function sortJSON(arr, key, way) {
+    return arr.sort(function(a, b) {
+        var x = a[key]; var y = b[key];
+        if (way ===  123 ) { return ((x < y) ? -1 : ((x > y) ? 1 : 0)); }
+        if (way ===  321 ) { return ((x > y) ? -1 : ((x < y) ? 1 : 0)); }
+    });
+}
+
+people2 = sortJSON(people, status ,  321 ); // 123 or 321
+alert("2. After processing (0 to x if 123; x to 0 if 321): "+JSON.stringify(people2));
+
