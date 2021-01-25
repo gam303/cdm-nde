@@ -1,23 +1,23 @@
 {
   "Categories": [
     {
-    "status": 0,
+    "priority": "0",
       "name": "Artists choice"
     },
     {
-    "status": 1,
+    "priority": "1",
       "name": "CEO''s choice"
     },
     {
-    "status": 2,
+    "priority": "2",
       "name": "HDR Remaster"
     },
     {
-         "status": 3,
+         "priority": "3",
        "name": "Fantasy"
             },
     {
-    "status": 4,
+    "priority": "4",
        "name": "Coming Soon!"
             }
         ],
