@@ -1,27 +1,46 @@
 {
   "Categories": [
     {
-      "name": "Artists choice",
-      "priority": "0"
+      "name": "Programmers choice"
     },
     {
-      "name": "CEO''s choice",
-      "priority": "1"
+      "name": "Editors choice"
     },
     {
-      "name": "HDR Remaster",
-      "priority": "2"
+      "name": "Engineers choice"
     },
     {
-       "name": "Fantasy",
-      "priority": "3"
+      "name": "Artists choice"
+    },
+    {
+      "name": "CEO's choice"
+    },
+    {
+      "name": "HDR Remaster"
+    },
+    {
+       "name": "Coming Soon!"
             },
-    {
-       "name": "Coming Soon!",
-      "priority": "4"
+         {
+       "name": "Fantasy"
+            },
+            {
+                "name": "Joker"
+            },
+            {
+                "name": "Animals"
+            },
+            {
+                "name": "Cars"
+            },
+            {
+                "name": "Superheroes"
+            },
+         {
+       "name": "Miscellaneous"
             }
         ],
-          "Wallpapers": [
+  "Wallpapers": [
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
@@ -2406,35 +2425,35 @@
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20251.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20251t.jpeg",
-      "name": "February",
+      "name": "Wallpaper",
       "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20252.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20252t.jpeg",
-      "name": "February",
+      "name": "Wallpaper",
       "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20253.png",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20253t.png",
-      "name": "February",
+      "name": "Wallpaper",
       "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20254.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20254t.jpeg",
-      "name": "February",
+      "name": "Wallpaper",
       "category": "Miscellaneous,Artists choice"
     },
     {
       "author": "JK",
       "url": "https://realzhangandandroid.github.io/amoled/4k/20255.jpeg",
       "thumbUrl": "https://realzhangandandroid.github.io/amoled/thumb/20255t.jpeg",
-      "name": "February",
+      "name": "Wallpaper",
       "category": "Miscellaneous,Artists choice"
     },
     {
@@ -3532,7 +3551,7 @@
 "url":"https://gam303.github.io/cdm-nde/hd_445164-23.jpg",
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-23.jpg",
 "blackper":"100.71",
-"name":"Image",
+"name":"Picture",
 "category":"Miscellaneous"
       },
       {
@@ -3540,7 +3559,7 @@
 "url":"https://gam303.github.io/cdm-nde/hd_445164-24.jpg",
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-24.jpg",
 "blackper":"100.71",
-"name":"Image",
+"name":"Picture",
 "category":"Miscellaneous"
       },
       {
@@ -3548,7 +3567,7 @@
 "url":"https://gam303.github.io/cdm-nde/hd_445164-26.jpg",
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-26.jpg",
 "blackper":"100.71",
-"name":"Image",
+"name":"Picture",
 "category":"Miscellaneous"
       },
       {
@@ -3556,7 +3575,7 @@
 "url":"https://gam303.github.io/cdm-nde/hd_445164-29.jpg",
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-29.jpg",
 "blackper":"100.71",
-"name":"Image",
+"name":"Picture",
 "category":"Miscellaneous"
       },
       {
@@ -3572,7 +3591,7 @@
 "url":"https://gam303.github.io/cdm-nde/hd_445164-32.jpg",
 "thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-32.jpg",
 "blackper":"100.71",
-"name":"Image",
+"name":"Picture",
 "category":"Miscellaneous"
       },
       {
@@ -4545,18 +4564,526 @@
 "blackper":"100.71",
 "name":"Wallpaper",
 "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://server.antiquesteamtractors.com/4k/upload/40268_Joker-Stairs.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/40268_Joker-Stairs.jpg",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Joker,Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/39704_Moon-neon.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/39704_Moon-neon.jpg",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/8722_873.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/8722_873.jpg",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/88654_marshmello.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/88654_marshmello.jpg",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/23143_34987562.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/23143_34987562.jpg",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/50996_876.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/50996_876.jpg",
+"blackper":"100.71",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/74397_Lamborghini-Huracan.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/74397_Lamborghini-Huracan.jpg",
+"blackper":"100.71",
+"name":"Lamborghini",
+"category":"Cars,Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/27998_Hacked-hd-Wallpaper.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/27998_Hacked-hd-Wallpaper.jpg",
+"blackper":"100.71",
+"name":"Hacked",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/18695_Marshmello-Colors.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/18695_Marshmello-Colors.jpg",
+"blackper":"100.71",
+"name":"Marshmello Colors",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://server.antiquesteamtractors.com/4k/upload/63556_404-monitor-mask-1080x1920.jpg",
+"thumbUrl":"https://server.antiquesteamtractors.com/4k/upload/63556_404-monitor-mask-1080x1920.jpg",
+"blackper":"100.71",
+"name":"404 monitor",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"Mod-JS",
+"url":"https://gam303.github.io/cdm-nde/90980_Anonymous-King-HD-Wallpaper.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/90980_Anonymous-King-HD-Wallpaper.jpg",
+"blackper":"100.71",
+"name":"Anonymous King",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-140.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-140.jpg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-136.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-136.jpg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-150.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-150.jpg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-153.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-153.jpg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-138.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-138.jpg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-137.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-137.jpg",
+"blackper":"100.77",
+"name":"Picture",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-155.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-155.jpg",
+"blackper":"100.77",
+"name":"Picture",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://gam303.github.io/cdm-nde/hd_445164-137.jpg",
+"thumbUrl":"https://gam303.github.io/cdm-nde/hd_445164-137.jpg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-19.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-19.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-18.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-18.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-4.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-4.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-10.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/12/Samsung-Galaxy-Z-Fold2-Wallpapers-10.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2020/12/Best-Wallpapers-New-4K-Best-Wallpapers-Free-Download-10.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/12/Best-Wallpapers-New-4K-Best-Wallpapers-Free-Download-10.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2021/01/New-Wallpaper-New-Wallpapers-For-Phone-and-Desktop-Free-Download-8.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2021/01/New-Wallpaper-New-Wallpapers-For-Phone-and-Desktop-Free-Download-8.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+"url":"https://bestwallpapers.net/wp-content/uploads/2020/03/Popular-4K-Wallpapers-Free-Download-4K-Wallpaper-For-Mobile.jpeg",
+"thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/03/Popular-4K-Wallpapers-Free-Download-4K-Wallpaper-For-Mobile.jpeg",
+"blackper":"100.77",
+"name":"Wallpaper",
+"category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author": "JK",
+      "url": "https://wallpaperaccess.com/full/803962.jpg",
+      "thumbUrl": "https://wallpaperaccess.com/full/803962.jpg",
+     "blackper":"81.81",
+      "name": "Wallpaper",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://i.pinimg.com/originals/b4/f0/d0/b4f0d0d9915f63725f80897ae79b8b48.jpg",
+      "thumbUrl": "https://i.pinimg.com/originals/b4/f0/d0/b4f0d0d9915f63725f80897ae79b8b48.jpg",
+     "blackper":"81.81",
+      "name": "Wallpaper",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://i.pinimg.com/originals/54/88/9e/54889e193574fa9886761c91c7100aee.jpg",
+      "thumbUrl": "https://i.pinimg.com/originals/54/88/9e/54889e193574fa9886761c91c7100aee.jpg",
+     "blackper":"81.81",
+      "name": "Wallpaper",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://i.pinimg.com/originals/57/ee/7a/57ee7ab622c1d94ce9f33486143e9482.png",
+      "thumbUrl": "https://i.pinimg.com/originals/57/ee/7a/57ee7ab622c1d94ce9f33486143e9482.png",
+     "blackper":"81.81",
+      "name": "Wallpaper",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://i.pinimg.com/originals/3c/1b/7b/3c1b7b01caedbe81138f150fda153611.png",
+      "thumbUrl": "https://i.pinimg.com/originals/3c/1b/7b/3c1b7b01caedbe81138f150fda153611.png",
+     "blackper":"81.81",
+      "name": "Wallpaper",
+      "category": "Fantasy,Miscellaneous"
+},
+      {
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/01/City-Wallpapers-Free-Download-Best-City-Wallpapers-for-Mobile-34.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/01/City-Wallpapers-Free-Download-Best-City-Wallpapers-for-Mobile-34.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/05/New-Best-Wallpapers-9.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/05/New-Best-Wallpapers-9.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/03/Android-Phone-Wallpapers-Free-Download-Android-Phone-Wallpaper-5.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/03/Android-Phone-Wallpapers-Free-Download-Android-Phone-Wallpaper-5.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/03/HD-Wallpapers-For-Samsung-Samsung-Wallpaper-Free-Download-10.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/03/HD-Wallpapers-For-Samsung-Samsung-Wallpaper-Free-Download-10.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/03/Android-Phone-Wallpapers-Wolf-Android-Phone-Wallpaper.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/03/Android-Phone-Wallpapers-Wolf-Android-Phone-Wallpaper.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://wallpapercave.com/wp/wp6689557.jpg",
+      "thumbUrl": "https://wallpapercave.com/wp/wp6689557.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://wallpapercave.com/wp/wp6689564.jpg",
+      "thumbUrl": "https://wallpapercave.com/wp/wp6689564.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://i.pinimg.com/originals/c7/a1/c5/c7a1c50cf0348fc2c4ceb3b41ac472f3.jpg",
+      "thumbUrl": "https://i.pinimg.com/originals/c7/a1/c5/c7a1c50cf0348fc2c4ceb3b41ac472f3.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://i.pinimg.com/originals/58/39/6f/58396f8fe1c4a3b63bd47a25c197fb49.jpg",
+      "thumbUrl": "https://i.pinimg.com/originals/58/39/6f/58396f8fe1c4a3b63bd47a25c197fb49.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://wallpaperaccess.com/full/803933.jpg",
+      "thumbUrl": "https://wallpaperaccess.com/full/803933.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/01/City-Wallpapers-Free-Download-Best-City-Wallpapers-for-Mobile-30.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/01/City-Wallpapers-Free-Download-Best-City-Wallpapers-for-Mobile-30.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2020/01/City-Wallpapers-Free-Download-Best-City-Wallpapers-for-Mobile-29.jpeg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2020/01/City-Wallpapers-Free-Download-Best-City-Wallpapers-for-Mobile-29.jpeg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2021/01/Apollo-18-Moon-Astronaut-HD-Wallpapers-Free-Donwload.jpg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2021/01/Apollo-18-Moon-Astronaut-HD-Wallpapers-Free-Donwload.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+},
+{
+      "author": "JK",
+      "url": "https://bestwallpapers.net/wp-content/uploads/2021/01/Apocalyptic-World-HD-Wallpapers-Free-Donwload.jpg",
+      "thumbUrl": "https://bestwallpapers.net/wp-content/uploads/2021/01/Apocalyptic-World-HD-Wallpapers-Free-Donwload.jpg",
+     "blackper":"80.80",
+      "name": "Wallpapers",
+      "category": "Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/01/People-Human-Person-Woman-Man-Girl-Boy-HD-Wallpapers-Download-72.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/01/People-Human-Person-Woman-Man-Girl-Boy-HD-Wallpapers-Download-72.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/03/OnePlus-7T-Pro-5G-McLaren-Stock-Wallpapers-OnePlus-Wallpaper-Free-Download-11.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/03/OnePlus-7T-Pro-5G-McLaren-Stock-Wallpapers-OnePlus-Wallpaper-Free-Download-11.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/05/Samsung-Galaxy-A7-2017-Wallpapers-Samsung-Wallpaper-Free-Download-3.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/05/Samsung-Galaxy-A7-2017-Wallpapers-Samsung-Wallpaper-Free-Download-3.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/01/Download-Free-Abstract-Wallpapers-for-Mobile-BestWallpapers.net-46.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/01/Download-Free-Abstract-Wallpapers-for-Mobile-BestWallpapers.net-46.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/01/Download-Free-Abstract-Wallpapers-for-Mobile-BestWallpapers.net-43.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/01/Download-Free-Abstract-Wallpapers-for-Mobile-BestWallpapers.net-43.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/05/New-Best-Wallpapers-20.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/05/New-Best-Wallpapers-20.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/01/People-Human-Person-Woman-Man-Girl-Boy-HD-Wallpapers-Download-99.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/01/People-Human-Person-Woman-Man-Girl-Boy-HD-Wallpapers-Download-99.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/01/Download-Free-Abstract-Wallpapers-for-Mobile-BestWallpapers.net-5.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/01/Download-Free-Abstract-Wallpapers-for-Mobile-BestWallpapers.net-5.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/03/HD-Wallpaper-Download-Phone-and-ios-Wallpaper-Download.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/03/HD-Wallpaper-Download-Phone-and-ios-Wallpaper-Download.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/05/Samsung-Galaxy-A6-Wallpapers-Samsung-Wallpaper-Free-Download-5.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/05/Samsung-Galaxy-A6-Wallpapers-Samsung-Wallpaper-Free-Download-5.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"https://bestwallpapers.net/wp-content/uploads/2020/05/Samsung-Galaxy-A7-2017-Wallpapers-Samsung-Wallpaper-Free-Download-16.jpeg",
+      "thumbUrl":"https://bestwallpapers.net/wp-content/uploads/2020/05/Samsung-Galaxy-A7-2017-Wallpapers-Samsung-Wallpaper-Free-Download-16.jpeg",
+      "blackper":"82.82",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Abstract/image/197725_adapted_1080x2340.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Abstract/image/197725_adapted_1080x2340.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Saying/image/198155_adapted_1080x2340.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Saying/image/198155_adapted_1080x2340.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Dark/image/196998_adapted_1080x2340.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Dark/image/196998_adapted_1080x2340.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/City/image/Beautiful city_31004.png",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/City/image/Beautiful city_31004.png",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Abstract/image/198093_adapted_1080x2340.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Abstract/image/198093_adapted_1080x2340.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Abstract/image/197176_adapted_1080x2340.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Abstract/image/197176_adapted_1080x2340.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Art/image/looking-at-mine-city-4k-ho-1080x2340_compress27.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Art/image/looking-at-mine-city-4k-ho-1080x2340_compress27.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Abstract/image/abstract-plane-shape-4k-b3-1080x2340_compress36.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Abstract/image/abstract-plane-shape-4k-b3-1080x2340_compress36.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+      {
+      "author":"JK",
+      "url":"http://www.367labs.a2hosted.com/casual/Abstract/image/Electric_Direction-d1d4df82-adee-45c4-8e77-4f867decc69b.jpg",
+      "thumbUrl":"http://www.367labs.a2hosted.com/casual/Abstract/image/Electric_Direction-d1d4df82-adee-45c4-8e77-4f867decc69b.jpg",
+      "blackper":"83.83",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
       }
    ]
 }
-
-function sortJSON(arr, key, way) {
-    return arr.sort(function(a, b) {
-        var x = a[key]; var y = b[key];
-        if (way ===  123 ) { return ((x < y) ? -1 : ((x > y) ? 1 : 0)); }
-        if (way ===  321 ) { return ((x > y) ? -1 : ((x < y) ? 1 : 0)); }
-    });
-}
-
-people2 = sortJSON(people, status ,  321 ); // 123 or 321
-alert("2. After processing (0 to x if 123; x to 0 if 321): "+JSON.stringify(people2));
-
