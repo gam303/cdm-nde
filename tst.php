@@ -9,5 +9,4 @@ echo "User name : ".$user;
 echo "Password : ".$pass;
 }
 
-
 ?>
