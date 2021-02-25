@@ -1,12 +1,16 @@
 <?php
-
-$user=$_POST['user'];
-$pass=$_POST['pass']; 
-
-if(isset($_POST['sub'])) 
-{
-echo "User name : ".$user; 
-echo "Password : ".$pass;
-}
-
+$name = $_POST['name'];
+$email = $_POST['email'];
+$phone = $_POST['phone'];
+$call = $_POST['call'];
+$website = $_POST['website'];
+$priority = $_POST['priority'];
+$type = $_POST['type'];
+$message = $_POST['message'];
+$formcontent=" From: $name \n Phone: $phone \n Call Back: $call \n Website: $website \n Priority: $priority \n Type: $type \n Message: $message";
+$recipient = "zen773377@gmail.com";
+$subject = "Contact Form";
+$mailheader = "From: $email \r\n";
+mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
+echo "Thank You!" . " -" . "<a href='form.html' style='text-decoration:none;color:#ff0099;'> Return Home</a>";
 ?>
