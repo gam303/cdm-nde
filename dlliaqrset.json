@@ -16,11 +16,11 @@
       "name": "Artists choice"
     },
 	  
-/*  {
-      "no":2,
-      "name": "CEO's choice"
-    },
- */
+/**  {
+ *     "no":2,
+ *     "name": "CEO's choice"
+ *   },
+ **/
 	  
     {
       "name": "HDR Remaster"
