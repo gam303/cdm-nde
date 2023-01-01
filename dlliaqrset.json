@@ -15,10 +15,13 @@
       "no":1,
       "name": "Artists choice"
     },
-    {
-	    "no":2,
+	  
+/*  {
+      "no":2,
       "name": "CEO's choice"
     },
+ */
+	  
     {
       "name": "HDR Remaster"
     },
@@ -5065,6 +5068,14 @@
       "url":"https://i.pinimg.com/originals/1c/7c/e1/1c7ce1ab52789c04d98a9e77d187de07.jpg",
       "thumbUrl":"https://i.pinimg.com/originals/1c/7c/e1/1c7ce1ab52789c04d98a9e77d187de07.jpg",
       "blackper":"86",
+      "name":"Wallpaper",
+      "category":"Fantasy,Miscellaneous"
+      },
+	  {
+      "author":"JK",
+      "url":"https://gam303.github.io/cdm-nde/Artboard-1.jpg",
+      "thumbUrl":"https://gam303.github.io/cdm-nde/Artboard-1.jpg",
+      "blackper":"87",
       "name":"Wallpaper",
       "category":"Fantasy,Miscellaneous"
       }
